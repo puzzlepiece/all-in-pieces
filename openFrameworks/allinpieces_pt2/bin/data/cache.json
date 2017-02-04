@@ -1,0 +1,3176 @@
+{
+   "search_metadata" : {
+      "completed_in" : 0.037,
+      "count" : 15,
+      "max_id" : 577189826937663488,
+      "max_id_str" : "577189826937663488",
+      "next_results" : "?max_id=577189740379840511&q=cat&lang=es&include_entities=1",
+      "query" : "cat",
+      "refresh_url" : "?since_id=577189826937663488&q=cat&lang=es&include_entities=1",
+      "since_id" : 0,
+      "since_id_str" : "0"
+   },
+   "statuses" : [
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sun Mar 15 19:29:13 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "vilaweb.cat/noticia/423600…",
+                  "expanded_url" : "http://www.vilaweb.cat/noticia/4236005/20150315/erc-crida-votar-uns-ajuntament-compromesos-proces-constituent.html",
+                  "indices" : [ 90, 112 ],
+                  "url" : "http://t.co/4px81KOnrb"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 151085945,
+                  "id_str" : "151085945",
+                  "indices" : [ 3, 11 ],
+                  "name" : "VilaWeb",
+                  "screen_name" : "VilaWeb"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 577189826937663488,
+         "id_str" : "577189826937663488",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 19,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Sun Mar 15 16:14:08 +0000 2015",
+            "entities" : {
+               "hashtags" : [],
+               "symbols" : [],
+               "urls" : [
+                  {
+                     "display_url" : "vilaweb.cat/noticia/423600…",
+                     "expanded_url" : "http://www.vilaweb.cat/noticia/4236005/20150315/erc-crida-votar-uns-ajuntament-compromesos-proces-constituent.html",
+                     "indices" : [ 77, 99 ],
+                     "url" : "http://t.co/4px81KOnrb"
+                  }
+               ],
+               "user_mentions" : []
+            },
+            "favorite_count" : 3,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 577140735813795842,
+            "id_str" : "577140735813795842",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "lang" : "es",
+            "metadata" : {
+               "iso_language_code" : "es",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 19,
+            "retweeted" : false,
+            "source" : "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+            "text" : "ERC crida a votar per uns ajuntament 'compromesos amb el procés constituent' http://t.co/4px81KOnrb",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Wed Jun 02 15:27:50 +0000 2010",
+               "default_profile" : false,
+               "default_profile_image" : false,
+               "description" : "El primer diari electrònic en català,  des del 1995 - Dirigit per @vpartal - Edició global en anglès a http://t.co/1LwN5aS8iV",
+               "entities" : {
+                  "description" : {
+                     "urls" : [
+                        {
+                           "display_url" : "vilaweb.cat/english",
+                           "expanded_url" : "http://www.vilaweb.cat/english",
+                           "indices" : [ 103, 125 ],
+                           "url" : "http://t.co/1LwN5aS8iV"
+                        }
+                     ]
+                  },
+                  "url" : {
+                     "urls" : [
+                        {
+                           "expanded_url" : null,
+                           "indices" : [ 0, 22 ],
+                           "url" : "http://www.vilaweb.cat"
+                        }
+                     ]
+                  }
+               },
+               "favourites_count" : 43,
+               "follow_request_sent" : false,
+               "followers_count" : 115406,
+               "following" : false,
+               "friends_count" : 4188,
+               "geo_enabled" : false,
+               "id" : 151085945,
+               "id_str" : "151085945",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "ca",
+               "listed_count" : 2576,
+               "location" : "Catalunya",
+               "name" : "VilaWeb",
+               "notifications" : false,
+               "profile_background_color" : "FF6600",
+               "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/674763734/e07c4bc10ae10a9c9ea0807305d5f9bf.png",
+               "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/674763734/e07c4bc10ae10a9c9ea0807305d5f9bf.png",
+               "profile_background_tile" : false,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/151085945/1401477761",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/2966932783/b5a44df1cbb14ea3daa3b4fe55cdb8ae_normal.jpeg",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/2966932783/b5a44df1cbb14ea3daa3b4fe55cdb8ae_normal.jpeg",
+               "profile_link_color" : "FF6600",
+               "profile_location" : null,
+               "profile_sidebar_border_color" : "000000",
+               "profile_sidebar_fill_color" : "FCE1B6",
+               "profile_text_color" : "333333",
+               "profile_use_background_image" : true,
+               "protected" : false,
+               "screen_name" : "VilaWeb",
+               "statuses_count" : 79199,
+               "time_zone" : "Madrid",
+               "url" : "http://www.vilaweb.cat",
+               "utc_offset" : 3600,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "text" : "RT @VilaWeb: ERC crida a votar per uns ajuntament 'compromesos amb el procés constituent' http://t.co/4px81KOnrb",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Sun Nov 25 18:45:26 +0000 2012",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "Tècnic de Laboratori de @Gencardio Dedicant el temps lliure a l'assemblea Nacional Catalana",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 28,
+            "follow_request_sent" : false,
+            "followers_count" : 169,
+            "following" : false,
+            "friends_count" : 395,
+            "geo_enabled" : true,
+            "id" : 970572025,
+            "id_str" : "970572025",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 5,
+            "location" : "Girona i Salt",
+            "name" : "Ferran Picó",
+            "notifications" : false,
+            "profile_background_color" : "DBE9ED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme17/bg.gif",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/970572025/1375903535",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/544930209833553922/ei_2fWrr_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/544930209833553922/ei_2fWrr_normal.jpeg",
+            "profile_link_color" : "CC3366",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "DBE9ED",
+            "profile_sidebar_fill_color" : "E6F6F9",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "Ferranpico",
+            "statuses_count" : 876,
+            "time_zone" : "Ljubljana",
+            "url" : null,
+            "utc_offset" : 3600,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sun Mar 15 19:29:09 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "wp.me/p2ifdh-aBe",
+                  "expanded_url" : "http://wp.me/p2ifdh-aBe",
+                  "indices" : [ 80, 102 ],
+                  "url" : "http://t.co/F454cwyx6P"
+               },
+               {
+                  "display_url" : "fb.me/7gP41uMvj",
+                  "expanded_url" : "http://fb.me/7gP41uMvj",
+                  "indices" : [ 103, 125 ],
+                  "url" : "http://t.co/MquBlaFmI0"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 550475641,
+                  "id_str" : "550475641",
+                  "indices" : [ 3, 10 ],
+                  "name" : "ANC Vallès Oc.",
+                  "screen_name" : "ANCvoc"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 577189812681191426,
+         "id_str" : "577189812681191426",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 3,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Sun Mar 15 19:24:04 +0000 2015",
+            "entities" : {
+               "hashtags" : [],
+               "symbols" : [],
+               "urls" : [
+                  {
+                     "display_url" : "wp.me/p2ifdh-aBe",
+                     "expanded_url" : "http://wp.me/p2ifdh-aBe",
+                     "indices" : [ 68, 90 ],
+                     "url" : "http://t.co/F454cwyx6P"
+                  },
+                  {
+                     "display_url" : "fb.me/7gP41uMvj",
+                     "expanded_url" : "http://fb.me/7gP41uMvj",
+                     "indices" : [ 91, 113 ],
+                     "url" : "http://t.co/MquBlaFmI0"
+                  }
+               ],
+               "user_mentions" : []
+            },
+            "favorite_count" : 0,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 577188533187796992,
+            "id_str" : "577188533187796992",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "lang" : "es",
+            "metadata" : {
+               "iso_language_code" : "es",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 3,
+            "retweeted" : false,
+            "source" : "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+            "text" : "El 26 de març, presentem a Sabadell el darrer llibre de Raül Romeva http://t.co/F454cwyx6P http://t.co/MquBlaFmI0",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Tue Apr 10 21:52:26 +0000 2012",
+               "default_profile" : true,
+               "default_profile_image" : false,
+               "description" : "L'Assemblea Nacional Catalana al Vallès Occidental.",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  },
+                  "url" : {
+                     "urls" : [
+                        {
+                           "display_url" : "vocxi.assemblea.cat",
+                           "expanded_url" : "http://vocxi.assemblea.cat/",
+                           "indices" : [ 0, 22 ],
+                           "url" : "http://t.co/I1JALdgE0W"
+                        }
+                     ]
+                  }
+               },
+               "favourites_count" : 2,
+               "follow_request_sent" : false,
+               "followers_count" : 1511,
+               "following" : false,
+               "friends_count" : 193,
+               "geo_enabled" : true,
+               "id" : 550475641,
+               "id_str" : "550475641",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "ca",
+               "listed_count" : 49,
+               "location" : "Vallès Occidental (Catalonia)",
+               "name" : "ANC Vallès Oc.",
+               "notifications" : false,
+               "profile_background_color" : "C0DEED",
+               "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+               "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+               "profile_background_tile" : false,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/550475641/1367425806",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/2293632470/a2a53iigbl7xqlb0mb86_normal.png",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/2293632470/a2a53iigbl7xqlb0mb86_normal.png",
+               "profile_link_color" : "0084B4",
+               "profile_location" : null,
+               "profile_sidebar_border_color" : "C0DEED",
+               "profile_sidebar_fill_color" : "DDEEF6",
+               "profile_text_color" : "333333",
+               "profile_use_background_image" : true,
+               "protected" : false,
+               "screen_name" : "ANCvoc",
+               "statuses_count" : 6280,
+               "time_zone" : "Paris",
+               "url" : "http://t.co/I1JALdgE0W",
+               "utc_offset" : 3600,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+         "text" : "RT @ANCvoc: El 26 de març, presentem a Sabadell el darrer llibre de Raül Romeva http://t.co/F454cwyx6P http://t.co/MquBlaFmI0",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Sun Jun 20 19:47:22 +0000 2010",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 0,
+            "follow_request_sent" : false,
+            "followers_count" : 4037,
+            "following" : false,
+            "friends_count" : 4099,
+            "geo_enabled" : false,
+            "id" : 157755289,
+            "id_str" : "157755289",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 50,
+            "location" : "PPCC* CATALONIA",
+            "name" : "Antoni Mañé i Rovira",
+            "notifications" : false,
+            "profile_background_color" : "1A1B1F",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/157755289/1397195633",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/1407113711/DSC06139_normal.JPG",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/1407113711/DSC06139_normal.JPG",
+            "profile_link_color" : "2FC2EF",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "181A1E",
+            "profile_sidebar_fill_color" : "252429",
+            "profile_text_color" : "666666",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "cota3143",
+            "statuses_count" : 260975,
+            "time_zone" : "Paris",
+            "url" : null,
+            "utc_offset" : 3600,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sun Mar 15 19:29:09 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [],
+            "user_mentions" : []
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 577189812324667392,
+         "id_str" : "577189812324667392",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://topgrabber.com\" rel=\"nofollow\">Parapau Paupau</a>",
+         "text" : "yo,uno de...chocolateeeee!",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Fri Mar 22 08:13:13 +0000 2013",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "Estudiante de Ingenieria :)",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 1,
+            "follow_request_sent" : false,
+            "followers_count" : 200,
+            "following" : false,
+            "friends_count" : 279,
+            "geo_enabled" : false,
+            "id" : 1288111141,
+            "id_str" : "1288111141",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "es",
+            "listed_count" : 0,
+            "location" : "Mérida, Mexico",
+            "name" : "Catalina Salazar",
+            "notifications" : false,
+            "profile_background_color" : "8B542B",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme8/bg.gif",
+            "profile_background_tile" : false,
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/3412882455/dd5bf7403359e4d43386a2a3d4761abc_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/3412882455/dd5bf7403359e4d43386a2a3d4761abc_normal.jpeg",
+            "profile_link_color" : "9D582E",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "D9B17E",
+            "profile_sidebar_fill_color" : "EADEAA",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "cat_sal",
+            "statuses_count" : 12309,
+            "time_zone" : null,
+            "url" : null,
+            "utc_offset" : null,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sun Mar 15 19:29:08 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "elpuntavui.cat/noticia/articl…",
+                  "expanded_url" : "http://www.elpuntavui.cat/noticia/article/3-politica/-/832270-lcal-un-canvi-a-castello-i-a-erc-estem-preparatsr.html?cca=1&utm_source=botons&utm_medium=com_elpunt&utm_campaign=facebook",
+                  "indices" : [ 109, 131 ],
+                  "url" : "http://t.co/2FKL5iFypw"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 878089897,
+                  "id_str" : "878089897",
+                  "indices" : [ 3, 18 ],
+                  "name" : "ERC Alt Empordà",
+                  "screen_name" : "ERC_AltEmporda"
+               },
+               {
+                  "id" : 2961866429,
+                  "id_str" : "2961866429",
+                  "indices" : [ 33, 45 ],
+                  "name" : "Salvi Güell",
+                  "screen_name" : "salvi_guell"
+               },
+               {
+                  "id" : 84053338,
+                  "id_str" : "84053338",
+                  "indices" : [ 57, 70 ],
+                  "name" : "Esquerra Republicana",
+                  "screen_name" : "Esquerra_ERC"
+               },
+               {
+                  "id" : 197388640,
+                  "id_str" : "197388640",
+                  "indices" : [ 101, 108 ],
+                  "name" : "El Punt Avui Girona",
+                  "screen_name" : "elpunt"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 577189806582722560,
+         "id_str" : "577189806582722560",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 4,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Sun Mar 15 11:37:41 +0000 2015",
+            "entities" : {
+               "hashtags" : [],
+               "symbols" : [],
+               "urls" : [
+                  {
+                     "display_url" : "elpuntavui.cat/noticia/articl…",
+                     "expanded_url" : "http://www.elpuntavui.cat/noticia/article/3-politica/-/832270-lcal-un-canvi-a-castello-i-a-erc-estem-preparatsr.html?cca=1&utm_source=botons&utm_medium=com_elpunt&utm_campaign=facebook",
+                     "indices" : [ 89, 111 ],
+                     "url" : "http://t.co/2FKL5iFypw"
+                  }
+               ],
+               "user_mentions" : [
+                  {
+                     "id" : 2961866429,
+                     "id_str" : "2961866429",
+                     "indices" : [ 13, 25 ],
+                     "name" : "Salvi Güell",
+                     "screen_name" : "salvi_guell"
+                  },
+                  {
+                     "id" : 84053338,
+                     "id_str" : "84053338",
+                     "indices" : [ 37, 50 ],
+                     "name" : "Esquerra Republicana",
+                     "screen_name" : "Esquerra_ERC"
+                  },
+                  {
+                     "id" : 197388640,
+                     "id_str" : "197388640",
+                     "indices" : [ 81, 88 ],
+                     "name" : "El Punt Avui Girona",
+                     "screen_name" : "elpunt"
+                  }
+               ]
+            },
+            "favorite_count" : 1,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 577071161483374592,
+            "id_str" : "577071161483374592",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "lang" : "es",
+            "metadata" : {
+               "iso_language_code" : "es",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 4,
+            "retweeted" : false,
+            "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text" : "Entrevista a @salvi_guell alcaldable @Esquerra_ERC a Castelló d'Empúries avui al @elpunt http://t.co/2FKL5iFypw",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Sat Oct 13 15:31:58 +0000 2012",
+               "default_profile" : false,
+               "default_profile_image" : false,
+               "description" : "Twitter de la Federació comarcal de l'Alt Empordà d'Esquerra Republicana de Catalunya",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  },
+                  "url" : {
+                     "urls" : [
+                        {
+                           "display_url" : "locals.esquerra.cat/alt-emporda",
+                           "expanded_url" : "http://locals.esquerra.cat/alt-emporda",
+                           "indices" : [ 0, 22 ],
+                           "url" : "http://t.co/1pjziNYcUz"
+                        }
+                     ]
+                  }
+               },
+               "favourites_count" : 26,
+               "follow_request_sent" : false,
+               "followers_count" : 807,
+               "following" : false,
+               "friends_count" : 986,
+               "geo_enabled" : false,
+               "id" : 878089897,
+               "id_str" : "878089897",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "es",
+               "listed_count" : 22,
+               "location" : "Alt Empordà, Països Catalans",
+               "name" : "ERC Alt Empordà",
+               "notifications" : false,
+               "profile_background_color" : "1A1B1F",
+               "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme9/bg.gif",
+               "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme9/bg.gif",
+               "profile_background_tile" : false,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/878089897/1426445050",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/577178687193362432/Wcy3VW78_normal.jpeg",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/577178687193362432/Wcy3VW78_normal.jpeg",
+               "profile_link_color" : "2FC2EF",
+               "profile_location" : null,
+               "profile_sidebar_border_color" : "181A1E",
+               "profile_sidebar_fill_color" : "252429",
+               "profile_text_color" : "666666",
+               "profile_use_background_image" : true,
+               "protected" : false,
+               "screen_name" : "ERC_AltEmporda",
+               "statuses_count" : 592,
+               "time_zone" : "Athens",
+               "url" : "http://t.co/1pjziNYcUz",
+               "utc_offset" : 7200,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+         "text" : "RT @ERC_AltEmporda: Entrevista a @salvi_guell alcaldable @Esquerra_ERC a Castelló d'Empúries avui al @elpunt http://t.co/2FKL5iFypw",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Fri Dec 21 16:17:13 +0000 2007",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "Marsellès (França), català d'adopció. ERC i JERC. Properament a BCNm projecte de traductor i politòleg. Allez l'OM!!! Visca el Barça!!! #27S2015",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               },
+               "url" : {
+                  "urls" : [
+                     {
+                        "display_url" : "patrickvedel.blogspot.fr",
+                        "expanded_url" : "http://patrickvedel.blogspot.fr",
+                        "indices" : [ 0, 22 ],
+                        "url" : "http://t.co/6oxOUkCtgS"
+                     }
+                  ]
+               }
+            },
+            "favourites_count" : 74855,
+            "follow_request_sent" : false,
+            "followers_count" : 2261,
+            "following" : false,
+            "friends_count" : 2492,
+            "geo_enabled" : true,
+            "id" : 11408322,
+            "id_str" : "11408322",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 36,
+            "location" : "Vitrolles (Vitròla)",
+            "name" : "PVedel #AraBosch",
+            "notifications" : false,
+            "profile_background_color" : "FFB232",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/477928868477550592/BPJKVaio.jpeg",
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/477928868477550592/BPJKVaio.jpeg",
+            "profile_background_tile" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/11408322/1402522166",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/515260191622066176/PrObepVU_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/515260191622066176/PrObepVU_normal.jpeg",
+            "profile_link_color" : "FF0000",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "FFFFFF",
+            "profile_sidebar_fill_color" : "FFFF00",
+            "profile_text_color" : "FF0000",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "PatrickVedel",
+            "statuses_count" : 144407,
+            "time_zone" : "Paris",
+            "url" : "http://t.co/6oxOUkCtgS",
+            "utc_offset" : 3600,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sun Mar 15 19:29:07 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "media" : [
+               {
+                  "display_url" : "pic.twitter.com/aSFB7fWvMI",
+                  "expanded_url" : "http://twitter.com/biebersmaniabr/status/577150973199646722/photo/1",
+                  "id" : 577150969424801793,
+                  "id_str" : "577150969424801793",
+                  "indices" : [ 83, 105 ],
+                  "media_url" : "http://pbs.twimg.com/media/CAJzv7JWcAEjZnr.jpg",
+                  "media_url_https" : "https://pbs.twimg.com/media/CAJzv7JWcAEjZnr.jpg",
+                  "sizes" : {
+                     "large" : {
+                        "h" : 711,
+                        "resize" : "fit",
+                        "w" : 948
+                     },
+                     "medium" : {
+                        "h" : 450,
+                        "resize" : "fit",
+                        "w" : 600
+                     },
+                     "small" : {
+                        "h" : 255,
+                        "resize" : "fit",
+                        "w" : 340
+                     },
+                     "thumb" : {
+                        "h" : 150,
+                        "resize" : "crop",
+                        "w" : 150
+                     }
+                  },
+                  "source_status_id" : 577150973199646722,
+                  "source_status_id_str" : "577150973199646722",
+                  "source_user_id" : 177404638,
+                  "source_user_id_str" : "177404638",
+                  "type" : "photo",
+                  "url" : "http://t.co/aSFB7fWvMI"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "bieberfotos.com/displayimage.p…",
+                  "expanded_url" : "http://bieberfotos.com/displayimage.php?album=lastup&cat=0&pid=89375#top_display_media",
+                  "indices" : [ 60, 82 ],
+                  "url" : "http://t.co/l0ZXpaQBDF"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 177404638,
+                  "id_str" : "177404638",
+                  "indices" : [ 3, 18 ],
+                  "name" : "biebermania.com.br",
+                  "screen_name" : "biebersmaniabr"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 577189803839619072,
+         "id_str" : "577189803839619072",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 220,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Sun Mar 15 16:54:49 +0000 2015",
+            "entities" : {
+               "hashtags" : [],
+               "media" : [
+                  {
+                     "display_url" : "pic.twitter.com/aSFB7fWvMI",
+                     "expanded_url" : "http://twitter.com/biebersmaniabr/status/577150973199646722/photo/1",
+                     "id" : 577150969424801793,
+                     "id_str" : "577150969424801793",
+                     "indices" : [ 63, 85 ],
+                     "media_url" : "http://pbs.twimg.com/media/CAJzv7JWcAEjZnr.jpg",
+                     "media_url_https" : "https://pbs.twimg.com/media/CAJzv7JWcAEjZnr.jpg",
+                     "sizes" : {
+                        "large" : {
+                           "h" : 711,
+                           "resize" : "fit",
+                           "w" : 948
+                        },
+                        "medium" : {
+                           "h" : 450,
+                           "resize" : "fit",
+                           "w" : 600
+                        },
+                        "small" : {
+                           "h" : 255,
+                           "resize" : "fit",
+                           "w" : 340
+                        },
+                        "thumb" : {
+                           "h" : 150,
+                           "resize" : "crop",
+                           "w" : 150
+                        }
+                     },
+                     "type" : "photo",
+                     "url" : "http://t.co/aSFB7fWvMI"
+                  }
+               ],
+               "symbols" : [],
+               "urls" : [
+                  {
+                     "display_url" : "bieberfotos.com/displayimage.p…",
+                     "expanded_url" : "http://bieberfotos.com/displayimage.php?album=lastup&cat=0&pid=89375#top_display_media",
+                     "indices" : [ 40, 62 ],
+                     "url" : "http://t.co/l0ZXpaQBDF"
+                  }
+               ],
+               "user_mentions" : []
+            },
+            "favorite_count" : 116,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 577150973199646722,
+            "id_str" : "577150973199646722",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "lang" : "es",
+            "metadata" : {
+               "iso_language_code" : "es",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 220,
+            "retweeted" : false,
+            "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text" : "AlfredoFlores: \"Viva a vida mano. #21.\"\nhttp://t.co/l0ZXpaQBDF http://t.co/aSFB7fWvMI",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Thu Aug 12 01:40:49 +0000 2010",
+               "default_profile" : false,
+               "default_profile_image" : false,
+               "description" : "Confira atualizações diárias na maior fonte de notícias de Justin Bieber da América Latina.",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  },
+                  "url" : {
+                     "urls" : [
+                        {
+                           "display_url" : "biebermania.com.br",
+                           "expanded_url" : "http://www.biebermania.com.br",
+                           "indices" : [ 0, 22 ],
+                           "url" : "http://t.co/FKjNlb6Ut9"
+                        }
+                     ]
+                  }
+               },
+               "favourites_count" : 1380,
+               "follow_request_sent" : false,
+               "followers_count" : 294015,
+               "following" : false,
+               "friends_count" : 20160,
+               "geo_enabled" : true,
+               "id" : 177404638,
+               "id_str" : "177404638",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "pt",
+               "listed_count" : 1863,
+               "location" : "Brazil",
+               "name" : "biebermania.com.br",
+               "notifications" : false,
+               "profile_background_color" : "1F181E",
+               "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/456641224506478593/46ZA3xAS.png",
+               "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/456641224506478593/46ZA3xAS.png",
+               "profile_background_tile" : false,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/177404638/1425086495",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/571479958350868480/nOnsMVwS_normal.png",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/571479958350868480/nOnsMVwS_normal.png",
+               "profile_link_color" : "333333",
+               "profile_location" : null,
+               "profile_sidebar_border_color" : "000000",
+               "profile_sidebar_fill_color" : "DDEEF6",
+               "profile_text_color" : "474247",
+               "profile_use_background_image" : false,
+               "protected" : false,
+               "screen_name" : "biebersmaniabr",
+               "statuses_count" : 222565,
+               "time_zone" : "Brasilia",
+               "url" : "http://t.co/FKjNlb6Ut9",
+               "utc_offset" : -10800,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+         "text" : "RT @biebersmaniabr: AlfredoFlores: \"Viva a vida mano. #21.\"\nhttp://t.co/l0ZXpaQBDF http://t.co/aSFB7fWvMI",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Thu Jun 14 01:25:12 +0000 2012",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "Justin follows 24/01/15 at 23:18pm Directioner ♥ Belieber ♥",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               },
+               "url" : {
+                  "urls" : [
+                     {
+                        "display_url" : "br-myworld.tumblr.com",
+                        "expanded_url" : "http://br-myworld.tumblr.com/",
+                        "indices" : [ 0, 22 ],
+                        "url" : "http://t.co/4AzbGvXwO4"
+                     }
+                  ]
+               }
+            },
+            "favourites_count" : 101,
+            "follow_request_sent" : false,
+            "followers_count" : 1259,
+            "following" : false,
+            "friends_count" : 1255,
+            "geo_enabled" : true,
+            "id" : 607709174,
+            "id_str" : "607709174",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "pt",
+            "listed_count" : 5,
+            "location" : "Guarujá-SP",
+            "name" : "yasmin",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/532298821716307970/4QMHhjWx.jpeg",
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/532298821716307970/4QMHhjWx.jpeg",
+            "profile_background_tile" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/607709174/1420355888",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/572619668997672960/MpTnFrjQ_normal.png",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/572619668997672960/MpTnFrjQ_normal.png",
+            "profile_link_color" : "ABB8C2",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "000000",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "BR_MyWorld",
+            "statuses_count" : 8293,
+            "time_zone" : "Brasilia",
+            "url" : "http://t.co/4AzbGvXwO4",
+            "utc_offset" : -10800,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sun Mar 15 19:29:06 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "directe.cat/noticia/392793…",
+                  "expanded_url" : "http://www.directe.cat/noticia/392793/es-confirma-la-conspiracio-contra-el-f.c-barcelona",
+                  "indices" : [ 65, 87 ],
+                  "url" : "http://t.co/fRagD5q9Oj"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 538427324,
+                  "id_str" : "538427324",
+                  "indices" : [ 3, 11 ],
+                  "name" : "Frittz ||★|| ",
+                  "screen_name" : "Frittz1"
+               },
+               {
+                  "id" : 13777542,
+                  "id_str" : "13777542",
+                  "indices" : [ 92, 100 ],
+                  "name" : "directe!cat",
+                  "screen_name" : "directe"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 577189798563213312,
+         "id_str" : "577189798563213312",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 4,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Sun Mar 15 18:49:21 +0000 2015",
+            "entities" : {
+               "hashtags" : [],
+               "symbols" : [],
+               "urls" : [
+                  {
+                     "display_url" : "directe.cat/noticia/392793…",
+                     "expanded_url" : "http://www.directe.cat/noticia/392793/es-confirma-la-conspiracio-contra-el-f.c-barcelona",
+                     "indices" : [ 52, 74 ],
+                     "url" : "http://t.co/fRagD5q9Oj"
+                  }
+               ],
+               "user_mentions" : [
+                  {
+                     "id" : 13777542,
+                     "id_str" : "13777542",
+                     "indices" : [ 79, 87 ],
+                     "name" : "directe!cat",
+                     "screen_name" : "directe"
+                  }
+               ]
+            },
+            "favorite_count" : 1,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 577179796813295616,
+            "id_str" : "577179796813295616",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "lang" : "es",
+            "metadata" : {
+               "iso_language_code" : "es",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 4,
+            "retweeted" : false,
+            "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text" : "Es confirma la conspiració contra el F.C. Barcelona http://t.co/fRagD5q9Oj via @directe",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Tue Mar 27 19:37:18 +0000 2012",
+               "default_profile" : false,
+               "default_profile_image" : false,
+               "description" : "Joia que ha inflamat el cel,\r\nfalç i ginesta.\r\nVola sobre el front l’estel\r\nde la senyera\r\n\r\n\r\n-Catalunya la meva terra,el meu Pais-",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  }
+               },
+               "favourites_count" : 1082,
+               "follow_request_sent" : false,
+               "followers_count" : 1416,
+               "following" : false,
+               "friends_count" : 1464,
+               "geo_enabled" : false,
+               "id" : 538427324,
+               "id_str" : "538427324",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "ca",
+               "listed_count" : 14,
+               "location" : "",
+               "name" : "Frittz ||★|| ",
+               "notifications" : false,
+               "profile_background_color" : "FCEBB6",
+               "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/378800000180953262/pFJC0BVi.jpeg",
+               "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/378800000180953262/pFJC0BVi.jpeg",
+               "profile_background_tile" : true,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/538427324/1424516789",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/378800000307207927/a35ee88ad53dca14fcdfcfd66a9a514b_normal.jpeg",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/378800000307207927/a35ee88ad53dca14fcdfcfd66a9a514b_normal.jpeg",
+               "profile_link_color" : "1C0CF5",
+               "profile_location" : null,
+               "profile_sidebar_border_color" : "FFFFFF",
+               "profile_sidebar_fill_color" : "78C0A8",
+               "profile_text_color" : "5E412F",
+               "profile_use_background_image" : true,
+               "protected" : false,
+               "screen_name" : "Frittz1",
+               "statuses_count" : 12430,
+               "time_zone" : "Madrid",
+               "url" : null,
+               "utc_offset" : 3600,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+         "text" : "RT @Frittz1: Es confirma la conspiració contra el F.C. Barcelona http://t.co/fRagD5q9Oj via @directe",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Fri Dec 19 16:50:31 +0000 2014",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 1229,
+            "follow_request_sent" : false,
+            "followers_count" : 132,
+            "following" : false,
+            "friends_count" : 381,
+            "geo_enabled" : true,
+            "id" : 2932304932,
+            "id_str" : "2932304932",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 0,
+            "location" : "",
+            "name" : "Jaume Font",
+            "notifications" : false,
+            "profile_background_color" : "DD2E44",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme6/bg.gif",
+            "profile_background_tile" : false,
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/546035199768031233/GLRbNZX8_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/546035199768031233/GLRbNZX8_normal.jpeg",
+            "profile_link_color" : "4A913C",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "jaumefcj",
+            "statuses_count" : 828,
+            "time_zone" : null,
+            "url" : null,
+            "utc_offset" : null,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sun Mar 15 19:29:05 +0000 2015",
+         "entities" : {
+            "hashtags" : [
+               {
+                  "indices" : [ 50, 58 ],
+                  "text" : "patents"
+               },
+               {
+                  "indices" : [ 119, 129 ],
+                  "text" : "innovació"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "bit.ly/1MpemkH",
+                  "expanded_url" : "http://bit.ly/1MpemkH",
+                  "indices" : [ 96, 118 ],
+                  "url" : "http://t.co/eBAVaOHr78"
+               },
+               {
+                  "display_url" : "ow.ly/i/8ZWcN",
+                  "expanded_url" : "http://ow.ly/i/8ZWcN",
+                  "indices" : [ 139, 140 ],
+                  "url" : "http://t.co/bQEZxphJKo"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 832908278,
+                  "id_str" : "832908278",
+                  "indices" : [ 3, 18 ],
+                  "name" : "Observatori Recerca",
+                  "screen_name" : "IEC_ObsRecerca"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 577189797158129664,
+         "id_str" : "577189797158129664",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 1,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Sun Mar 15 17:05:25 +0000 2015",
+            "entities" : {
+               "hashtags" : [
+                  {
+                     "indices" : [ 30, 38 ],
+                     "text" : "patents"
+                  },
+                  {
+                     "indices" : [ 99, 109 ],
+                     "text" : "innovació"
+                  }
+               ],
+               "symbols" : [],
+               "urls" : [
+                  {
+                     "display_url" : "bit.ly/1MpemkH",
+                     "expanded_url" : "http://bit.ly/1MpemkH",
+                     "indices" : [ 76, 98 ],
+                     "url" : "http://t.co/eBAVaOHr78"
+                  },
+                  {
+                     "display_url" : "ow.ly/i/8ZWcN",
+                     "expanded_url" : "http://ow.ly/i/8ZWcN",
+                     "indices" : [ 110, 132 ],
+                     "url" : "http://t.co/bQEZxphJKo"
+                  }
+               ],
+               "user_mentions" : []
+            },
+            "favorite_count" : 1,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 577153638407266305,
+            "id_str" : "577153638407266305",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "lang" : "es",
+            "metadata" : {
+               "iso_language_code" : "es",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 1,
+            "retweeted" : false,
+            "source" : "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+            "text" : "Les sol·licituds catalanes de #patents estatals baixen un 31,9% (2008-2014) http://t.co/eBAVaOHr78 #innovació http://t.co/bQEZxphJKo",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Wed Sep 19 09:01:40 +0000 2012",
+               "default_profile" : false,
+               "default_profile_image" : false,
+               "description" : "L'Observatori de la Recerca és un servei d'informació especialitzada en R+D+I de l'Institut d'Estudis Catalans ( @IEC ) que gestiona el portal web MERIDIÀ",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  },
+                  "url" : {
+                     "urls" : [
+                        {
+                           "display_url" : "meridia.iec.cat",
+                           "expanded_url" : "http://meridia.iec.cat",
+                           "indices" : [ 0, 22 ],
+                           "url" : "http://t.co/urZlvTa1iR"
+                        }
+                     ]
+                  }
+               },
+               "favourites_count" : 16,
+               "follow_request_sent" : false,
+               "followers_count" : 1902,
+               "following" : false,
+               "friends_count" : 1087,
+               "geo_enabled" : false,
+               "id" : 832908278,
+               "id_str" : "832908278",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "ca",
+               "listed_count" : 103,
+               "location" : "Barcelona",
+               "name" : "Observatori Recerca",
+               "notifications" : false,
+               "profile_background_color" : "FFFFFF",
+               "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/668985997/b099c24a6c3b9ba989788466f82c4f6b.jpeg",
+               "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/668985997/b099c24a6c3b9ba989788466f82c4f6b.jpeg",
+               "profile_background_tile" : false,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/832908278/1348566234",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/3408711261/acf7dee33581b978cd908876c12c4699_normal.png",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/3408711261/acf7dee33581b978cd908876c12c4699_normal.png",
+               "profile_link_color" : "F50A44",
+               "profile_location" : null,
+               "profile_sidebar_border_color" : "FFFFFF",
+               "profile_sidebar_fill_color" : "DDEEF6",
+               "profile_text_color" : "333333",
+               "profile_use_background_image" : true,
+               "protected" : false,
+               "screen_name" : "IEC_ObsRecerca",
+               "statuses_count" : 4329,
+               "time_zone" : null,
+               "url" : "http://t.co/urZlvTa1iR",
+               "utc_offset" : null,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+         "text" : "RT @IEC_ObsRecerca: Les sol·licituds catalanes de #patents estatals baixen un 31,9% (2008-2014) http://t.co/eBAVaOHr78 #innovació http://t.…",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Wed Jan 20 11:16:31 +0000 2010",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "Clúster d'Innovació. Cerquem empreses amb ganes d'innovar que vulguin formar part de la nostra xarxa de negocis.",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               },
+               "url" : {
+                  "urls" : [
+                     {
+                        "display_url" : "innobaix.cat",
+                        "expanded_url" : "http://www.innobaix.cat",
+                        "indices" : [ 0, 22 ],
+                        "url" : "http://t.co/DSYRF7z4ww"
+                     }
+                  ]
+               }
+            },
+            "favourites_count" : 106,
+            "follow_request_sent" : false,
+            "followers_count" : 1166,
+            "following" : false,
+            "friends_count" : 1037,
+            "geo_enabled" : true,
+            "id" : 106698404,
+            "id_str" : "106698404",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "es",
+            "listed_count" : 70,
+            "location" : "Baix Llobregat",
+            "name" : "Innobaix",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/280844051/LOGO.gif",
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/280844051/LOGO.gif",
+            "profile_background_tile" : true,
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/643624437/Imagen_8_normal.png",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/643624437/Imagen_8_normal.png",
+            "profile_link_color" : "0084B4",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "innobaix",
+            "statuses_count" : 937,
+            "time_zone" : "Paris",
+            "url" : "http://t.co/DSYRF7z4ww",
+            "utc_offset" : 3600,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : {
+            "coordinates" : [ 1.29959637, 41.32576191 ],
+            "type" : "Point"
+         },
+         "created_at" : "Sun Mar 15 19:29:04 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "ow.ly/KljY4",
+                  "expanded_url" : "http://ow.ly/KljY4",
+                  "indices" : [ 106, 128 ],
+                  "url" : "http://t.co/8oAzfA9euw"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 121895918,
+                  "id_str" : "121895918",
+                  "indices" : [ 61, 73 ],
+                  "name" : "Marc Colomer",
+                  "screen_name" : "MarcColomer"
+               },
+               {
+                  "id" : 871356248,
+                  "id_str" : "871356248",
+                  "indices" : [ 76, 89 ],
+                  "name" : "Roger Mateos",
+                  "screen_name" : "Roger_Mateos"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : {
+            "coordinates" : [ 41.32576191, 1.29959637 ],
+            "type" : "Point"
+         },
+         "id" : 577189792187842561,
+         "id_str" : "577189792187842561",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : {
+            "attributes" : {},
+            "bounding_box" : {
+               "coordinates" : [
+                  [
+                     [ 1.2706547, 41.3040514 ],
+                     [ 1.3558084, 41.3040514 ],
+                     [ 1.3558084, 41.3831841 ],
+                     [ 1.2706547, 41.3831841 ]
+                  ]
+               ],
+               "type" : "Polygon"
+            },
+            "contained_within" : [],
+            "country" : "España",
+            "country_code" : "ES",
+            "full_name" : "el Pla de Santa Maria, Catalunya",
+            "id" : "cb25212850db8dc0",
+            "name" : "el Pla de Santa Maria",
+            "place_type" : "city",
+            "url" : "https://api.twitter.com/1.1/geo/id/cb25212850db8dc0.json"
+         },
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+         "text" : "Q està passant sota la taula? Llums d’alarma al sobiranisme: @MarcColomer i @Roger_Mateos us ho expliquen http://t.co/8oAzfA9euw",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Sat Feb 20 00:11:00 +0000 2010",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "Sóc el cap de Política del @diariARA i he treballat a Madrid i a BCN. Intento ser sempre honrat i bon amic. M'agraden l'Albi, el bon vi, el futbol i implicar-me",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 904,
+            "follow_request_sent" : false,
+            "followers_count" : 7382,
+            "following" : false,
+            "friends_count" : 1766,
+            "geo_enabled" : true,
+            "id" : 115793824,
+            "id_str" : "115793824",
+            "is_translation_enabled" : true,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 256,
+            "location" : "Catalunya",
+            "name" : "Ferran Casas",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/304208062/premsa2",
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/304208062/premsa2",
+            "profile_background_tile" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/115793824/1349736591",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/2425137803/image_normal.jpg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/2425137803/image_normal.jpg",
+            "profile_link_color" : "0084B4",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "Ferrancm",
+            "statuses_count" : 12234,
+            "time_zone" : "Madrid",
+            "url" : null,
+            "utc_offset" : 3600,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sun Mar 15 19:29:04 +0000 2015",
+         "entities" : {
+            "hashtags" : [
+               {
+                  "indices" : [ 20, 29 ],
+                  "text" : "lligaS16"
+               },
+               {
+                  "indices" : [ 124, 135 ],
+                  "text" : "somvoltors"
+               }
+            ],
+            "media" : [
+               {
+                  "display_url" : "pic.twitter.com/pEvm0O88tz",
+                  "expanded_url" : "http://twitter.com/RugbyTarragona/status/577166576564207616/photo/1",
+                  "id" : 577166575423352832,
+                  "id_str" : "577166575423352832",
+                  "indices" : [ 139, 140 ],
+                  "media_url" : "http://pbs.twimg.com/media/CAKB8UBWcAArGkb.jpg",
+                  "media_url_https" : "https://pbs.twimg.com/media/CAKB8UBWcAArGkb.jpg",
+                  "sizes" : {
+                     "large" : {
+                        "h" : 635,
+                        "resize" : "fit",
+                        "w" : 960
+                     },
+                     "medium" : {
+                        "h" : 396,
+                        "resize" : "fit",
+                        "w" : 600
+                     },
+                     "small" : {
+                        "h" : 224,
+                        "resize" : "fit",
+                        "w" : 340
+                     },
+                     "thumb" : {
+                        "h" : 150,
+                        "resize" : "crop",
+                        "w" : 150
+                     }
+                  },
+                  "source_status_id" : 577166576564207616,
+                  "source_status_id_str" : "577166576564207616",
+                  "source_user_id" : 185669928,
+                  "source_user_id_str" : "185669928",
+                  "type" : "photo",
+                  "url" : "http://t.co/pEvm0O88tz"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "crt.cat",
+                  "expanded_url" : "http://www.crt.cat",
+                  "indices" : [ 77, 99 ],
+                  "url" : "http://t.co/0Z9uJc1WP8"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 185669928,
+                  "id_str" : "185669928",
+                  "indices" : [ 3, 18 ],
+                  "name" : "Club Rugby Tarragona",
+                  "screen_name" : "RugbyTarragona"
+               },
+               {
+                  "id" : 185669928,
+                  "id_str" : "185669928",
+                  "indices" : [ 45, 60 ],
+                  "name" : "Club Rugby Tarragona",
+                  "screen_name" : "RugbyTarragona"
+               },
+               {
+                  "id" : 387007913,
+                  "id_str" : "387007913",
+                  "indices" : [ 63, 74 ],
+                  "name" : "RCCornella",
+                  "screen_name" : "RCCornella"
+               },
+               {
+                  "id" : 1091716266,
+                  "id_str" : "1091716266",
+                  "indices" : [ 100, 112 ],
+                  "name" : "Blog de Rugby",
+                  "screen_name" : "Blogderugby"
+               },
+               {
+                  "id" : 140005346,
+                  "id_str" : "140005346",
+                  "indices" : [ 113, 123 ],
+                  "name" : "F. Catalana de Rugby",
+                  "screen_name" : "rugby_cat"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 577189791298641920,
+         "id_str" : "577189791298641920",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 4,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Sun Mar 15 17:56:49 +0000 2015",
+            "entities" : {
+               "hashtags" : [
+                  {
+                     "indices" : [ 0, 9 ],
+                     "text" : "lligaS16"
+                  },
+                  {
+                     "indices" : [ 104, 115 ],
+                     "text" : "somvoltors"
+                  }
+               ],
+               "media" : [
+                  {
+                     "display_url" : "pic.twitter.com/pEvm0O88tz",
+                     "expanded_url" : "http://twitter.com/RugbyTarragona/status/577166576564207616/photo/1",
+                     "id" : 577166575423352832,
+                     "id_str" : "577166575423352832",
+                     "indices" : [ 116, 138 ],
+                     "media_url" : "http://pbs.twimg.com/media/CAKB8UBWcAArGkb.jpg",
+                     "media_url_https" : "https://pbs.twimg.com/media/CAKB8UBWcAArGkb.jpg",
+                     "sizes" : {
+                        "large" : {
+                           "h" : 635,
+                           "resize" : "fit",
+                           "w" : 960
+                        },
+                        "medium" : {
+                           "h" : 396,
+                           "resize" : "fit",
+                           "w" : 600
+                        },
+                        "small" : {
+                           "h" : 224,
+                           "resize" : "fit",
+                           "w" : 340
+                        },
+                        "thumb" : {
+                           "h" : 150,
+                           "resize" : "crop",
+                           "w" : 150
+                        }
+                     },
+                     "type" : "photo",
+                     "url" : "http://t.co/pEvm0O88tz"
+                  }
+               ],
+               "symbols" : [],
+               "urls" : [
+                  {
+                     "display_url" : "crt.cat",
+                     "expanded_url" : "http://www.crt.cat",
+                     "indices" : [ 57, 79 ],
+                     "url" : "http://t.co/0Z9uJc1WP8"
+                  }
+               ],
+               "user_mentions" : [
+                  {
+                     "id" : 185669928,
+                     "id_str" : "185669928",
+                     "indices" : [ 25, 40 ],
+                     "name" : "Club Rugby Tarragona",
+                     "screen_name" : "RugbyTarragona"
+                  },
+                  {
+                     "id" : 387007913,
+                     "id_str" : "387007913",
+                     "indices" : [ 43, 54 ],
+                     "name" : "RCCornella",
+                     "screen_name" : "RCCornella"
+                  },
+                  {
+                     "id" : 1091716266,
+                     "id_str" : "1091716266",
+                     "indices" : [ 80, 92 ],
+                     "name" : "Blog de Rugby",
+                     "screen_name" : "Blogderugby"
+                  },
+                  {
+                     "id" : 140005346,
+                     "id_str" : "140005346",
+                     "indices" : [ 93, 103 ],
+                     "name" : "F. Catalana de Rugby",
+                     "screen_name" : "rugby_cat"
+                  }
+               ]
+            },
+            "favorite_count" : 1,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 577166576564207616,
+            "id_str" : "577166576564207616",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "lang" : "es",
+            "metadata" : {
+               "iso_language_code" : "es",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 4,
+            "retweeted" : false,
+            "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text" : "#lligaS16 crònica partit @RugbyTarragona - @RCCornella a http://t.co/0Z9uJc1WP8 @Blogderugby @rugby_cat #somvoltors http://t.co/pEvm0O88tz",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Wed Sep 01 15:10:10 +0000 2010",
+               "default_profile" : false,
+               "default_profile_image" : false,
+               "description" : "",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  },
+                  "url" : {
+                     "urls" : [
+                        {
+                           "display_url" : "rugbytarragona.com",
+                           "expanded_url" : "http://www.rugbytarragona.com",
+                           "indices" : [ 0, 22 ],
+                           "url" : "http://t.co/eohP75xecG"
+                        }
+                     ]
+                  }
+               },
+               "favourites_count" : 552,
+               "follow_request_sent" : false,
+               "followers_count" : 1262,
+               "following" : false,
+               "friends_count" : 643,
+               "geo_enabled" : true,
+               "id" : 185669928,
+               "id_str" : "185669928",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "ca",
+               "listed_count" : 29,
+               "location" : "Tarragona",
+               "name" : "Club Rugby Tarragona",
+               "notifications" : false,
+               "profile_background_color" : "4B0C8A",
+               "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/378800000010323365/f58a9f1f37888c6dfcdfab71c3e76282.jpeg",
+               "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/378800000010323365/f58a9f1f37888c6dfcdfab71c3e76282.jpeg",
+               "profile_background_tile" : false,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/185669928/1425245977",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/540974655268728834/G08PQs_e_normal.jpeg",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/540974655268728834/G08PQs_e_normal.jpeg",
+               "profile_link_color" : "0F0D0F",
+               "profile_location" : null,
+               "profile_sidebar_border_color" : "000000",
+               "profile_sidebar_fill_color" : "7AC3EE",
+               "profile_text_color" : "3D1957",
+               "profile_use_background_image" : true,
+               "protected" : false,
+               "screen_name" : "RugbyTarragona",
+               "statuses_count" : 3583,
+               "time_zone" : "Madrid",
+               "url" : "http://t.co/eohP75xecG",
+               "utc_offset" : 3600,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>",
+         "text" : "RT @RugbyTarragona: #lligaS16 crònica partit @RugbyTarragona - @RCCornella a http://t.co/0Z9uJc1WP8 @Blogderugby @rugby_cat #somvoltors htt…",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Sat Mar 22 21:38:16 +0000 2014",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "Grup humà d´advocats i advocades del Camp de Tarragona que ens dediquem a la defensa dels drets dels ciutadans i dels propis advocats així com de la legalitat.",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               },
+               "url" : {
+                  "urls" : [
+                     {
+                        "display_url" : "plataformaadvocatscamptarragona.cat",
+                        "expanded_url" : "http://www.plataformaadvocatscamptarragona.cat",
+                        "indices" : [ 0, 22 ],
+                        "url" : "http://t.co/vSNBot0KyA"
+                     }
+                  ]
+               }
+            },
+            "favourites_count" : 1073,
+            "follow_request_sent" : false,
+            "followers_count" : 326,
+            "following" : false,
+            "friends_count" : 456,
+            "geo_enabled" : false,
+            "id" : 2405075900,
+            "id_str" : "2405075900",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "es",
+            "listed_count" : 3,
+            "location" : "",
+            "name" : "Plataforma Advocats ",
+            "notifications" : false,
+            "profile_background_color" : "C1CBEB",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/447495232360157184/B1fagvIM.jpeg",
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/447495232360157184/B1fagvIM.jpeg",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/2405075900/1403735529",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/565248394973970433/tZfHWcTs_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/565248394973970433/tZfHWcTs_normal.jpeg",
+            "profile_link_color" : "B33000",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "FFFFFF",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "Plataforma_Adv",
+            "statuses_count" : 2101,
+            "time_zone" : null,
+            "url" : "http://t.co/vSNBot0KyA",
+            "utc_offset" : null,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sun Mar 15 19:29:00 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "radiomundo80.cl",
+                  "expanded_url" : "http://www.radiomundo80.cl",
+                  "indices" : [ 52, 74 ],
+                  "url" : "http://t.co/Gk7ifKG9jZ"
+               }
+            ],
+            "user_mentions" : []
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 577189774802464768,
+         "id_str" : "577189774802464768",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+         "text" : "cat stevens...    father and son...     entra a     http://t.co/Gk7ifKG9jZ       no te lo pierdas...",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Fri Mar 14 02:38:43 +0000 2014",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               },
+               "url" : {
+                  "urls" : [
+                     {
+                        "display_url" : "radiomundo80.cl",
+                        "expanded_url" : "http://www.radiomundo80.cl",
+                        "indices" : [ 0, 22 ],
+                        "url" : "http://t.co/W4lSlju0LZ"
+                     }
+                  ]
+               }
+            },
+            "favourites_count" : 0,
+            "follow_request_sent" : false,
+            "followers_count" : 925,
+            "following" : false,
+            "friends_count" : 1989,
+            "geo_enabled" : true,
+            "id" : 2388264138,
+            "id_str" : "2388264138",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "es",
+            "listed_count" : 3,
+            "location" : "santiago de chile",
+            "name" : "radiomundo80.cl",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/2388264138/1398909290",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/444308132257226752/67OhnX5x_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/444308132257226752/67OhnX5x_normal.jpeg",
+            "profile_link_color" : "0084B4",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "radiomundo80",
+            "statuses_count" : 8280,
+            "time_zone" : null,
+            "url" : "http://t.co/W4lSlju0LZ",
+            "utc_offset" : null,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sun Mar 15 19:28:59 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "arabalears.cat/premium/societ…",
+                  "expanded_url" : "http://www.arabalears.cat/premium/societat/Bienvenidos-Macllorca_0_1320468273.html#",
+                  "indices" : [ 117, 139 ],
+                  "url" : "http://t.co/zLhbgOWQ2X"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 303158460,
+                  "id_str" : "303158460",
+                  "indices" : [ 3, 14 ],
+                  "name" : "Mercè Pinya",
+                  "screen_name" : "mercepinya"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 577189769840607233,
+         "id_str" : "577189769840607233",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 1,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Sun Mar 15 19:28:39 +0000 2015",
+            "entities" : {
+               "hashtags" : [],
+               "symbols" : [],
+               "urls" : [
+                  {
+                     "display_url" : "arabalears.cat/premium/societ…",
+                     "expanded_url" : "http://www.arabalears.cat/premium/societat/Bienvenidos-Macllorca_0_1320468273.html#",
+                     "indices" : [ 101, 123 ],
+                     "url" : "http://t.co/zLhbgOWQ2X"
+                  }
+               ],
+               "user_mentions" : []
+            },
+            "favorite_count" : 0,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 577189687271489537,
+            "id_str" : "577189687271489537",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "lang" : "es",
+            "metadata" : {
+               "iso_language_code" : "es",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 1,
+            "retweeted" : false,
+            "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text" : "'Bienvenidos a Macllorca', o com hem urbanitzat la superfície equivalent a 3 Formenteres en 50 anys. http://t.co/zLhbgOWQ2X",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Sun May 22 11:49:02 +0000 2011",
+               "default_profile" : false,
+               "default_profile_image" : false,
+               "description" : "Periodista. A l'@ARAbalears",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  },
+                  "url" : {
+                     "urls" : [
+                        {
+                           "display_url" : "arabalears.cat",
+                           "expanded_url" : "http://www.arabalears.cat",
+                           "indices" : [ 0, 22 ],
+                           "url" : "http://t.co/zb5BT7usOQ"
+                        }
+                     ]
+                  }
+               },
+               "favourites_count" : 1200,
+               "follow_request_sent" : false,
+               "followers_count" : 1830,
+               "following" : false,
+               "friends_count" : 965,
+               "geo_enabled" : false,
+               "id" : 303158460,
+               "id_str" : "303158460",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "ca",
+               "listed_count" : 50,
+               "location" : "Mallorca",
+               "name" : "Mercè Pinya",
+               "notifications" : false,
+               "profile_background_color" : "709397",
+               "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme6/bg.gif",
+               "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme6/bg.gif",
+               "profile_background_tile" : false,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/303158460/1407592372",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/552605409807454208/sY4uh99F_normal.jpeg",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/552605409807454208/sY4uh99F_normal.jpeg",
+               "profile_link_color" : "FF3300",
+               "profile_location" : null,
+               "profile_sidebar_border_color" : "86A4A6",
+               "profile_sidebar_fill_color" : "A0C5C7",
+               "profile_text_color" : "333333",
+               "profile_use_background_image" : true,
+               "protected" : false,
+               "screen_name" : "mercepinya",
+               "statuses_count" : 4989,
+               "time_zone" : "Madrid",
+               "url" : "http://t.co/zb5BT7usOQ",
+               "utc_offset" : 3600,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+         "text" : "RT @mercepinya: 'Bienvenidos a Macllorca', o com hem urbanitzat la superfície equivalent a 3 Formenteres en 50 anys. http://t.co/zLhbgOWQ2X",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Wed Jul 27 19:52:42 +0000 2011",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "Trabajando para que los pobres paguen menos impuestos. Mallorca és Sicília sense morts.",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               },
+               "url" : {
+                  "urls" : [
+                     {
+                        "display_url" : "agoradelavila.wordpress.com",
+                        "expanded_url" : "http://agoradelavila.wordpress.com",
+                        "indices" : [ 0, 22 ],
+                        "url" : "http://t.co/Q3ATnw32Wu"
+                     }
+                  ]
+               }
+            },
+            "favourites_count" : 18048,
+            "follow_request_sent" : false,
+            "followers_count" : 1535,
+            "following" : false,
+            "friends_count" : 1429,
+            "geo_enabled" : true,
+            "id" : 343582924,
+            "id_str" : "343582924",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "es",
+            "listed_count" : 8,
+            "location" : "Felanitx-Madrid",
+            "name" : "toni nadal",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/762093327/a6caa92f9b7da32a9e12ba4a0848422d.jpeg",
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/762093327/a6caa92f9b7da32a9e12ba4a0848422d.jpeg",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/343582924/1426418497",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/563370791338008579/v8fl1FPP_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/563370791338008579/v8fl1FPP_normal.jpeg",
+            "profile_link_color" : "0084B4",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "FFFFFF",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "toninadalurrea",
+            "statuses_count" : 23195,
+            "time_zone" : null,
+            "url" : "http://t.co/Q3ATnw32Wu",
+            "utc_offset" : null,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sun Mar 15 19:28:57 +0000 2015",
+         "entities" : {
+            "hashtags" : [
+               {
+                  "indices" : [ 109, 123 ],
+                  "text" : "independència"
+               },
+               {
+                  "indices" : [ 124, 133 ],
+                  "text" : "dignitat"
+               },
+               {
+                  "indices" : [ 134, 140 ],
+                  "text" : "vencerem"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "naciodigital.cat/noticia/84011/…",
+                  "expanded_url" : "http://www.naciodigital.cat/noticia/84011/iker/urbina/estat/no/oferta/democratica/catalunya",
+                  "indices" : [ 86, 108 ],
+                  "url" : "http://t.co/4FKVZXi22s"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 44003331,
+                  "id_str" : "44003331",
+                  "indices" : [ 3, 16 ],
+                  "name" : "Llop lı*ıl *X #DUI",
+                  "screen_name" : "Misterdanger"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 577189762513133568,
+         "id_str" : "577189762513133568",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 2,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Sun Mar 15 19:09:37 +0000 2015",
+            "entities" : {
+               "hashtags" : [
+                  {
+                     "indices" : [ 91, 105 ],
+                     "text" : "independència"
+                  },
+                  {
+                     "indices" : [ 106, 115 ],
+                     "text" : "dignitat"
+                  },
+                  {
+                     "indices" : [ 116, 125 ],
+                     "text" : "vencerem"
+                  }
+               ],
+               "symbols" : [],
+               "urls" : [
+                  {
+                     "display_url" : "naciodigital.cat/noticia/84011/…",
+                     "expanded_url" : "http://www.naciodigital.cat/noticia/84011/iker/urbina/estat/no/oferta/democratica/catalunya",
+                     "indices" : [ 68, 90 ],
+                     "url" : "http://t.co/4FKVZXi22s"
+                  }
+               ],
+               "user_mentions" : []
+            },
+            "favorite_count" : 0,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 577184894557749248,
+            "id_str" : "577184894557749248",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "lang" : "es",
+            "metadata" : {
+               "iso_language_code" : "es",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 2,
+            "retweeted" : false,
+            "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text" : "Iker Urbina: «L'Estat no té una oferta democràtica per a Catalunya» http://t.co/4FKVZXi22s #independència #dignitat #vencerem",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Mon Jun 01 23:31:41 +0000 2009",
+               "default_profile" : false,
+               "default_profile_image" : false,
+               "description" : "34. Català. Independentista. Sediciós. Activista. Euroagnòstic. Cruyffista. Guardiolista. Enamorat de la @shiodome_. TIC-horticultor.",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  }
+               },
+               "favourites_count" : 32542,
+               "follow_request_sent" : false,
+               "followers_count" : 3231,
+               "following" : false,
+               "friends_count" : 2010,
+               "geo_enabled" : false,
+               "id" : 44003331,
+               "id_str" : "44003331",
+               "is_translation_enabled" : true,
+               "is_translator" : false,
+               "lang" : "ca",
+               "listed_count" : 51,
+               "location" : "Catalunya",
+               "name" : "Llop lı*ıl *X #DUI",
+               "notifications" : false,
+               "profile_background_color" : "131516",
+               "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme14/bg.gif",
+               "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme14/bg.gif",
+               "profile_background_tile" : true,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/44003331/1401364953",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/553575692021923840/YVGOA-32_normal.jpeg",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/553575692021923840/YVGOA-32_normal.jpeg",
+               "profile_link_color" : "FFAE00",
+               "profile_location" : null,
+               "profile_sidebar_border_color" : "000000",
+               "profile_sidebar_fill_color" : "EFEFEF",
+               "profile_text_color" : "333333",
+               "profile_use_background_image" : true,
+               "protected" : false,
+               "screen_name" : "Misterdanger",
+               "statuses_count" : 83930,
+               "time_zone" : "Brussels",
+               "url" : null,
+               "utc_offset" : 3600,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "text" : "RT @Misterdanger: Iker Urbina: «L'Estat no té una oferta democràtica per a Catalunya» http://t.co/4FKVZXi22s #independència #dignitat #venc…",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Sun Feb 06 18:53:39 +0000 2011",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 11,
+            "follow_request_sent" : false,
+            "followers_count" : 620,
+            "following" : false,
+            "friends_count" : 1290,
+            "geo_enabled" : false,
+            "id" : 248315758,
+            "id_str" : "248315758",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 11,
+            "location" : "",
+            "name" : "Dani",
+            "notifications" : false,
+            "profile_background_color" : "642D8B",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme10/bg.gif",
+            "profile_background_tile" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/248315758/1389127519",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/420657433640714240/UNa9lZhr_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/420657433640714240/UNa9lZhr_normal.jpeg",
+            "profile_link_color" : "FF0000",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "65B0DA",
+            "profile_sidebar_fill_color" : "7AC3EE",
+            "profile_text_color" : "3D1957",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "Xquet",
+            "statuses_count" : 15430,
+            "time_zone" : null,
+            "url" : null,
+            "utc_offset" : null,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sun Mar 15 19:28:56 +0000 2015",
+         "entities" : {
+            "hashtags" : [
+               {
+                  "indices" : [ 104, 111 ],
+                  "text" : "futfem"
+               }
+            ],
+            "media" : [
+               {
+                  "display_url" : "pic.twitter.com/P5NEJM9vDq",
+                  "expanded_url" : "http://twitter.com/btvesports/status/577169508839895040/photo/1",
+                  "id" : 577169506780479489,
+                  "id_str" : "577169506780479489",
+                  "indices" : [ 112, 134 ],
+                  "media_url" : "http://pbs.twimg.com/media/CAKEm8LWgAEz8po.jpg",
+                  "media_url_https" : "https://pbs.twimg.com/media/CAKEm8LWgAEz8po.jpg",
+                  "sizes" : {
+                     "large" : {
+                        "h" : 404,
+                        "resize" : "fit",
+                        "w" : 620
+                     },
+                     "medium" : {
+                        "h" : 390,
+                        "resize" : "fit",
+                        "w" : 600
+                     },
+                     "small" : {
+                        "h" : 221,
+                        "resize" : "fit",
+                        "w" : 340
+                     },
+                     "thumb" : {
+                        "h" : 150,
+                        "resize" : "crop",
+                        "w" : 150
+                     }
+                  },
+                  "source_status_id" : 577169508839895040,
+                  "source_status_id_str" : "577169508839895040",
+                  "source_user_id" : 137761052,
+                  "source_user_id_str" : "137761052",
+                  "type" : "photo",
+                  "url" : "http://t.co/P5NEJM9vDq"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "btv.cat/btvnoticies/20…",
+                  "expanded_url" : "http://www.btv.cat/btvnoticies/2015/03/15/lespanyol-femeni-goleja-5-2/",
+                  "indices" : [ 81, 103 ],
+                  "url" : "http://t.co/4O7cbBQhtq"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 137761052,
+                  "id_str" : "137761052",
+                  "indices" : [ 3, 14 ],
+                  "name" : "Btvesports",
+                  "screen_name" : "btvesports"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 577189758117478401,
+         "id_str" : "577189758117478401",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 2,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Sun Mar 15 18:08:28 +0000 2015",
+            "entities" : {
+               "hashtags" : [
+                  {
+                     "indices" : [ 88, 95 ],
+                     "text" : "futfem"
+                  }
+               ],
+               "media" : [
+                  {
+                     "display_url" : "pic.twitter.com/P5NEJM9vDq",
+                     "expanded_url" : "http://twitter.com/btvesports/status/577169508839895040/photo/1",
+                     "id" : 577169506780479489,
+                     "id_str" : "577169506780479489",
+                     "indices" : [ 96, 118 ],
+                     "media_url" : "http://pbs.twimg.com/media/CAKEm8LWgAEz8po.jpg",
+                     "media_url_https" : "https://pbs.twimg.com/media/CAKEm8LWgAEz8po.jpg",
+                     "sizes" : {
+                        "large" : {
+                           "h" : 404,
+                           "resize" : "fit",
+                           "w" : 620
+                        },
+                        "medium" : {
+                           "h" : 390,
+                           "resize" : "fit",
+                           "w" : 600
+                        },
+                        "small" : {
+                           "h" : 221,
+                           "resize" : "fit",
+                           "w" : 340
+                        },
+                        "thumb" : {
+                           "h" : 150,
+                           "resize" : "crop",
+                           "w" : 150
+                        }
+                     },
+                     "type" : "photo",
+                     "url" : "http://t.co/P5NEJM9vDq"
+                  }
+               ],
+               "symbols" : [],
+               "urls" : [
+                  {
+                     "display_url" : "btv.cat/btvnoticies/20…",
+                     "expanded_url" : "http://www.btv.cat/btvnoticies/2015/03/15/lespanyol-femeni-goleja-5-2/",
+                     "indices" : [ 65, 87 ],
+                     "url" : "http://t.co/4O7cbBQhtq"
+                  }
+               ],
+               "user_mentions" : []
+            },
+            "favorite_count" : 2,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 577169508839895040,
+            "id_str" : "577169508839895040",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "lang" : "es",
+            "metadata" : {
+               "iso_language_code" : "es",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 2,
+            "retweeted" : false,
+            "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text" : "[VÍDEO] Golejada de l'Espanyol femení davant el Collerense (5-2) http://t.co/4O7cbBQhtq #futfem http://t.co/P5NEJM9vDq",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Tue Apr 27 17:42:23 +0000 2010",
+               "default_profile" : false,
+               "default_profile_image" : false,
+               "description" : "Secció d'esports de Barcelona Televisió. Mira'ns a @BTVcat, escolta'ns a @barcelona_fm (91.0) i visita'ns a @btvnoticies",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  },
+                  "url" : {
+                     "urls" : [
+                        {
+                           "display_url" : "btv.cat/btvnoticies/se…",
+                           "expanded_url" : "http://www.btv.cat/btvnoticies/seccions/esports/",
+                           "indices" : [ 0, 22 ],
+                           "url" : "http://t.co/OvICen2gpO"
+                        }
+                     ]
+                  }
+               },
+               "favourites_count" : 1931,
+               "follow_request_sent" : false,
+               "followers_count" : 4311,
+               "following" : false,
+               "friends_count" : 874,
+               "geo_enabled" : false,
+               "id" : 137761052,
+               "id_str" : "137761052",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "ca",
+               "listed_count" : 87,
+               "location" : "Barcelona",
+               "name" : "Btvesports",
+               "notifications" : false,
+               "profile_background_color" : "709397",
+               "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/770349827/6a00984b1b7da7c287548a0e844c61f3.jpeg",
+               "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/770349827/6a00984b1b7da7c287548a0e844c61f3.jpeg",
+               "profile_background_tile" : false,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/137761052/1413753019",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/523943970213076992/V7RWAZPd_normal.jpeg",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/523943970213076992/V7RWAZPd_normal.jpeg",
+               "profile_link_color" : "4A913C",
+               "profile_location" : null,
+               "profile_sidebar_border_color" : "FFFFFF",
+               "profile_sidebar_fill_color" : "A0C5C7",
+               "profile_text_color" : "333333",
+               "profile_use_background_image" : true,
+               "protected" : false,
+               "screen_name" : "btvesports",
+               "statuses_count" : 14242,
+               "time_zone" : "Greenland",
+               "url" : "http://t.co/OvICen2gpO",
+               "utc_offset" : -10800,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+         "text" : "RT @btvesports: [VÍDEO] Golejada de l'Espanyol femení davant el Collerense (5-2) http://t.co/4O7cbBQhtq #futfem http://t.co/P5NEJM9vDq",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Fri Jan 06 16:54:04 +0000 2012",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "Scouting de la Escola de Futbol Sant Feliu de Guixols",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 9326,
+            "follow_request_sent" : false,
+            "followers_count" : 1181,
+            "following" : false,
+            "friends_count" : 2004,
+            "geo_enabled" : true,
+            "id" : 456770338,
+            "id_str" : "456770338",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "es",
+            "listed_count" : 13,
+            "location" : "Santa Cristina d'Aro (Girona) ",
+            "name" : "Juanito ",
+            "notifications" : false,
+            "profile_background_color" : "F8F5F6",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme7/bg.gif",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme7/bg.gif",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/456770338/1426112465",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/572849753516277760/zl3FUz2t_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/572849753516277760/zl3FUz2t_normal.jpeg",
+            "profile_link_color" : "055AD2",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "DFDFDF",
+            "profile_sidebar_fill_color" : "F3F3F3",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "JuanitoCruz11",
+            "statuses_count" : 165439,
+            "time_zone" : null,
+            "url" : null,
+            "utc_offset" : null,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sun Mar 15 19:28:56 +0000 2015",
+         "entities" : {
+            "hashtags" : [
+               {
+                  "indices" : [ 56, 68 ],
+                  "text" : "FabraiCoats"
+               },
+               {
+                  "indices" : [ 85, 100 ],
+                  "text" : "AfterLandscape"
+               }
+            ],
+            "media" : [
+               {
+                  "display_url" : "pic.twitter.com/72eUeOtgdw",
+                  "expanded_url" : "http://twitter.com/bcncultura/status/576435399968567297/photo/1",
+                  "id" : 576435399515590657,
+                  "id_str" : "576435399515590657",
+                  "indices" : [ 124, 140 ],
+                  "media_url" : "http://pbs.twimg.com/media/B__o8RgWUAEnlRF.jpg",
+                  "media_url_https" : "https://pbs.twimg.com/media/B__o8RgWUAEnlRF.jpg",
+                  "sizes" : {
+                     "large" : {
+                        "h" : 608,
+                        "resize" : "fit",
+                        "w" : 966
+                     },
+                     "medium" : {
+                        "h" : 377,
+                        "resize" : "fit",
+                        "w" : 600
+                     },
+                     "small" : {
+                        "h" : 213,
+                        "resize" : "fit",
+                        "w" : 340
+                     },
+                     "thumb" : {
+                        "h" : 150,
+                        "resize" : "crop",
+                        "w" : 150
+                     }
+                  },
+                  "source_status_id" : 576435399968567297,
+                  "source_status_id_str" : "576435399968567297",
+                  "source_user_id" : 50602744,
+                  "source_user_id_str" : "50602744",
+                  "type" : "photo",
+                  "url" : "http://t.co/72eUeOtgdw"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "ow.ly/Klljg",
+                  "expanded_url" : "http://ow.ly/Klljg",
+                  "indices" : [ 101, 123 ],
+                  "url" : "http://t.co/hTi2qNFF16"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 50602744,
+                  "id_str" : "50602744",
+                  "indices" : [ 3, 14 ],
+                  "name" : "Barcelona Cultura",
+                  "screen_name" : "bcncultura"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 577189757173780480,
+         "id_str" : "577189757173780480",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 11,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Sun Mar 15 14:10:20 +0000 2015",
+            "entities" : {
+               "hashtags" : [
+                  {
+                     "indices" : [ 40, 52 ],
+                     "text" : "FabraiCoats"
+                  },
+                  {
+                     "indices" : [ 69, 84 ],
+                     "text" : "AfterLandscape"
+                  }
+               ],
+               "media" : [
+                  {
+                     "display_url" : "pic.twitter.com/72eUeOtgdw",
+                     "expanded_url" : "http://twitter.com/bcncultura/status/576435399968567297/photo/1",
+                     "id" : 576435399515590657,
+                     "id_str" : "576435399515590657",
+                     "indices" : [ 108, 130 ],
+                     "media_url" : "http://pbs.twimg.com/media/B__o8RgWUAEnlRF.jpg",
+                     "media_url_https" : "https://pbs.twimg.com/media/B__o8RgWUAEnlRF.jpg",
+                     "sizes" : {
+                        "large" : {
+                           "h" : 608,
+                           "resize" : "fit",
+                           "w" : 966
+                        },
+                        "medium" : {
+                           "h" : 377,
+                           "resize" : "fit",
+                           "w" : 600
+                        },
+                        "small" : {
+                           "h" : 213,
+                           "resize" : "fit",
+                           "w" : 340
+                        },
+                        "thumb" : {
+                           "h" : 150,
+                           "resize" : "crop",
+                           "w" : 150
+                        }
+                     },
+                     "source_status_id" : 576435399968567297,
+                     "source_status_id_str" : "576435399968567297",
+                     "source_user_id" : 50602744,
+                     "source_user_id_str" : "50602744",
+                     "type" : "photo",
+                     "url" : "http://t.co/72eUeOtgdw"
+                  }
+               ],
+               "symbols" : [],
+               "urls" : [
+                  {
+                     "display_url" : "ow.ly/Klljg",
+                     "expanded_url" : "http://ow.ly/Klljg",
+                     "indices" : [ 85, 107 ],
+                     "url" : "http://t.co/hTi2qNFF16"
+                  }
+               ],
+               "user_mentions" : []
+            },
+            "favorite_count" : 7,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 577109578820751360,
+            "id_str" : "577109578820751360",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "lang" : "es",
+            "metadata" : {
+               "iso_language_code" : "es",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 11,
+            "retweeted" : false,
+            "source" : "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+            "text" : "El fenomen de les ciutats copiades a la #FabraiCoats amb l'exposició #AfterLandscape http://t.co/hTi2qNFF16 http://t.co/72eUeOtgdw",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Thu Jun 25 09:44:11 +0000 2009",
+               "default_profile" : false,
+               "default_profile_image" : false,
+               "description" : "Tota la informació cultural de la ciutat de Barcelona.",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  },
+                  "url" : {
+                     "urls" : [
+                        {
+                           "display_url" : "bcn.cat/barcelonacultu…",
+                           "expanded_url" : "http://www.bcn.cat/barcelonacultura",
+                           "indices" : [ 0, 22 ],
+                           "url" : "http://t.co/NgwIeRqv3g"
+                        }
+                     ]
+                  }
+               },
+               "favourites_count" : 12,
+               "follow_request_sent" : false,
+               "followers_count" : 106271,
+               "following" : false,
+               "friends_count" : 1803,
+               "geo_enabled" : true,
+               "id" : 50602744,
+               "id_str" : "50602744",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "es",
+               "listed_count" : 1802,
+               "location" : "Barcelona",
+               "name" : "Barcelona Cultura",
+               "notifications" : false,
+               "profile_background_color" : "000000",
+               "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/157567406/fons_twitter_ok.jpg",
+               "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/157567406/fons_twitter_ok.jpg",
+               "profile_background_tile" : true,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/50602744/1424274622",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/3311219915/114892b7bb4e92b6289cd6efc1bcd434_normal.jpeg",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/3311219915/114892b7bb4e92b6289cd6efc1bcd434_normal.jpeg",
+               "profile_link_color" : "8F8F8F",
+               "profile_location" : null,
+               "profile_sidebar_border_color" : "D6D6D6",
+               "profile_sidebar_fill_color" : "EDEDED",
+               "profile_text_color" : "363636",
+               "profile_use_background_image" : true,
+               "protected" : false,
+               "screen_name" : "bcncultura",
+               "statuses_count" : 15691,
+               "time_zone" : "Amsterdam",
+               "url" : "http://t.co/NgwIeRqv3g",
+               "utc_offset" : 3600,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+         "text" : "RT @bcncultura: El fenomen de les ciutats copiades a la #FabraiCoats amb l'exposició #AfterLandscape http://t.co/hTi2qNFF16 http://t.co/72e…",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Thu Sep 05 10:49:07 +0000 2013",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "Amante del Arte, Estudiante de Bellas Artes, Loco experto.",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 385,
+            "follow_request_sent" : false,
+            "followers_count" : 28,
+            "following" : false,
+            "friends_count" : 62,
+            "geo_enabled" : false,
+            "id" : 1731532446,
+            "id_str" : "1731532446",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "es",
+            "listed_count" : 0,
+            "location" : "",
+            "name" : "Sintetic",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/378800000067266525/88525d639c74ebbeb3af540d582ab9f0.jpeg",
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/378800000067266525/88525d639c74ebbeb3af540d582ab9f0.jpeg",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/1731532446/1378378556",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/553324097120120832/a8Pg5qyG_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/553324097120120832/a8Pg5qyG_normal.jpeg",
+            "profile_link_color" : "00B315",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "FFFFFF",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "MondeloPau",
+            "statuses_count" : 1021,
+            "time_zone" : null,
+            "url" : null,
+            "utc_offset" : null,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sun Mar 15 19:28:52 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [],
+            "user_mentions" : [
+               {
+                  "id" : 434272577,
+                  "id_str" : "434272577",
+                  "indices" : [ 3, 11 ],
+                  "name" : "Anahi Villar ",
+                  "screen_name" : "73Anahi"
+               },
+               {
+                  "id" : 2151996181,
+                  "id_str" : "2151996181",
+                  "indices" : [ 14, 23 ],
+                  "name" : "SM ",
+                  "screen_name" : "MineurM1"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 577189740379840512,
+         "id_str" : "577189740379840512",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "retweet_count" : 2,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Sun Mar 15 18:45:36 +0000 2015",
+            "entities" : {
+               "hashtags" : [],
+               "symbols" : [],
+               "urls" : [],
+               "user_mentions" : [
+                  {
+                     "id" : 2151996181,
+                     "id_str" : "2151996181",
+                     "indices" : [ 1, 10 ],
+                     "name" : "SM ",
+                     "screen_name" : "MineurM1"
+                  }
+               ]
+            },
+            "favorite_count" : 0,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 577178851832381440,
+            "id_str" : "577178851832381440",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "lang" : "es",
+            "metadata" : {
+               "iso_language_code" : "es",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "retweet_count" : 2,
+            "retweeted" : false,
+            "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text" : "\"@MineurM1: En serio , el pyo es el único ser del planeta que usa bota CAT y cree que se manda LA FACHA\"",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Sun Dec 11 17:06:04 +0000 2011",
+               "default_profile" : false,
+               "default_profile_image" : false,
+               "description" : "No será eterno pero lo haremos inolvidable CJNG 2015  Bailarina - insta: anahivillarfranco",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  }
+               },
+               "favourites_count" : 3110,
+               "follow_request_sent" : false,
+               "followers_count" : 787,
+               "following" : false,
+               "friends_count" : 561,
+               "geo_enabled" : true,
+               "id" : 434272577,
+               "id_str" : "434272577",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "es",
+               "listed_count" : 5,
+               "location" : "PARAGUAY",
+               "name" : "Anahi Villar ",
+               "notifications" : false,
+               "profile_background_color" : "FF6699",
+               "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme11/bg.gif",
+               "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme11/bg.gif",
+               "profile_background_tile" : true,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/434272577/1424480995",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/575347932158935040/IlHSCy1-_normal.jpeg",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/575347932158935040/IlHSCy1-_normal.jpeg",
+               "profile_link_color" : "B40B43",
+               "profile_location" : null,
+               "profile_sidebar_border_color" : "CC3366",
+               "profile_sidebar_fill_color" : "E5507E",
+               "profile_text_color" : "362720",
+               "profile_use_background_image" : true,
+               "protected" : false,
+               "screen_name" : "73Anahi",
+               "statuses_count" : 42502,
+               "time_zone" : null,
+               "url" : null,
+               "utc_offset" : null,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "text" : "RT @73Anahi: \"@MineurM1: En serio , el pyo es el único ser del planeta que usa bota CAT y cree que se manda LA FACHA\"",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Thu Aug 22 17:45:50 +0000 2013",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "Yeni Rivas Bff    Insta: elenabenitez14   Snap: elena_benitez",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 334,
+            "follow_request_sent" : false,
+            "followers_count" : 468,
+            "following" : false,
+            "friends_count" : 348,
+            "geo_enabled" : false,
+            "id" : 1691654712,
+            "id_str" : "1691654712",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "es",
+            "listed_count" : 1,
+            "location" : "",
+            "name" : "Elena Benitez ❤",
+            "notifications" : false,
+            "profile_background_color" : "131516",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/1691654712/1423450208",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/574774186649976832/6IMRTX4i_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/574774186649976832/6IMRTX4i_normal.jpeg",
+            "profile_link_color" : "009999",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "EEEEEE",
+            "profile_sidebar_fill_color" : "EFEFEF",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "ElenaBeniteez",
+            "statuses_count" : 8030,
+            "time_zone" : null,
+            "url" : null,
+            "utc_offset" : null,
+            "verified" : false
+         }
+      }
+   ]
+}
+

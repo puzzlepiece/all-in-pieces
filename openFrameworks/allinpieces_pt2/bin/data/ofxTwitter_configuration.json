@@ -1,0 +1,2123 @@
+{
+   "search_metadata" : {
+      "completed_in" : 0.026,
+      "count" : 15,
+      "max_id" : 576982575484370945,
+      "max_id_str" : "576982575484370945",
+      "next_results" : "?max_id=576981807796735999&q=cat&lang=es&include_entities=1",
+      "query" : "cat",
+      "refresh_url" : "?since_id=576982575484370945&q=cat&lang=es&include_entities=1",
+      "since_id" : 0,
+      "since_id_str" : "0"
+   },
+   "statuses" : [
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sun Mar 15 05:45:40 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "wp.me/p2L1qQ-6Vm",
+                  "expanded_url" : "http://wp.me/p2L1qQ-6Vm",
+                  "indices" : [ 87, 109 ],
+                  "url" : "http://t.co/XpUIlF7GDE"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 240741667,
+                  "id_str" : "240741667",
+                  "indices" : [ 3, 15 ],
+                  "name" : "Vila de Roses",
+                  "screen_name" : "ViladeRoses"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 576982575484370945,
+         "id_str" : "576982575484370945",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 1,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Sun Mar 15 05:38:27 +0000 2015",
+            "entities" : {
+               "hashtags" : [],
+               "symbols" : [],
+               "urls" : [
+                  {
+                     "display_url" : "wp.me/p2L1qQ-6Vm",
+                     "expanded_url" : "http://wp.me/p2L1qQ-6Vm",
+                     "indices" : [ 70, 92 ],
+                     "url" : "http://t.co/XpUIlF7GDE"
+                  }
+               ],
+               "user_mentions" : []
+            },
+            "favorite_count" : 0,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 576980758327263232,
+            "id_str" : "576980758327263232",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "lang" : "es",
+            "metadata" : {
+               "iso_language_code" : "es",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 1,
+            "retweeted" : false,
+            "source" : "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+            "text" : "A partir d’avui, 15 de març, comença la prohibició de fer foc al bosc http://t.co/XpUIlF7GDE",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Thu Jan 20 16:50:18 +0000 2011",
+               "default_profile" : false,
+               "default_profile_image" : false,
+               "description" : "Diari digital des de Roses, tota una Vila.",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  },
+                  "url" : {
+                     "urls" : [
+                        {
+                           "display_url" : "viladeroses.cat",
+                           "expanded_url" : "http://www.viladeroses.cat",
+                           "indices" : [ 0, 22 ],
+                           "url" : "http://t.co/XTvWrjH87T"
+                        }
+                     ]
+                  }
+               },
+               "favourites_count" : 7,
+               "follow_request_sent" : false,
+               "followers_count" : 1103,
+               "following" : false,
+               "friends_count" : 1028,
+               "geo_enabled" : true,
+               "id" : 240741667,
+               "id_str" : "240741667",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "ca",
+               "listed_count" : 18,
+               "location" : "Roses, Alt Empordà",
+               "name" : "Vila de Roses",
+               "notifications" : false,
+               "profile_background_color" : "ACDED6",
+               "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme18/bg.gif",
+               "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme18/bg.gif",
+               "profile_background_tile" : false,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/240741667/1398239792",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/1235028284/VdR_normal.jpg",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/1235028284/VdR_normal.jpg",
+               "profile_link_color" : "038543",
+               "profile_location" : null,
+               "profile_sidebar_border_color" : "EEEEEE",
+               "profile_sidebar_fill_color" : "F6F6F6",
+               "profile_text_color" : "333333",
+               "profile_use_background_image" : true,
+               "protected" : false,
+               "screen_name" : "ViladeRoses",
+               "statuses_count" : 8502,
+               "time_zone" : "Madrid",
+               "url" : "http://t.co/XTvWrjH87T",
+               "utc_offset" : 3600,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "text" : "RT @ViladeRoses: A partir d’avui, 15 de març, comença la prohibició de fer foc al bosc http://t.co/XpUIlF7GDE",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Sat Sep 12 13:16:01 +0000 2009",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "Treballadora, estudiant, i fotògrafa (en procés). \nTrabajadora, estudiante, y fotógrafa ( en proceso). \nWorker, student and photographer ( in progress).",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               },
+               "url" : {
+                  "urls" : [
+                     {
+                        "display_url" : "flickr.com/photos/pili_st…",
+                        "expanded_url" : "https://www.flickr.com/photos/pili_stage/",
+                        "indices" : [ 0, 23 ],
+                        "url" : "https://t.co/s8cicC5S77"
+                     }
+                  ]
+               }
+            },
+            "favourites_count" : 39857,
+            "follow_request_sent" : false,
+            "followers_count" : 2082,
+            "following" : false,
+            "friends_count" : 2296,
+            "geo_enabled" : false,
+            "id" : 73640017,
+            "id_str" : "73640017",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "es",
+            "listed_count" : 49,
+            "location" : "Barcelona , SPAIN",
+            "name" : "Pili Redondo",
+            "notifications" : false,
+            "profile_background_color" : "ACDED6",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/73640017/1425821857",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/411693715/perfil_normal.jpg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/411693715/perfil_normal.jpg",
+            "profile_link_color" : "038543",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "EEEEEE",
+            "profile_sidebar_fill_color" : "F6F6F6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "Pili_stage",
+            "statuses_count" : 96843,
+            "time_zone" : "Madrid",
+            "url" : "https://t.co/s8cicC5S77",
+            "utc_offset" : 3600,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sun Mar 15 05:45:15 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "wp.me/p2L1qQ-6Vr",
+                  "expanded_url" : "http://wp.me/p2L1qQ-6Vr",
+                  "indices" : [ 95, 117 ],
+                  "url" : "http://t.co/ZSqcoPEunB"
+               }
+            ],
+            "user_mentions" : []
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 576982469993316352,
+         "id_str" : "576982469993316352",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+         "text" : "El rosinc Ferdy arriba a Sant Boi de Llobregat després de 9 hores i mitja de bicicleta i pluja http://t.co/ZSqcoPEunB",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Thu Jan 20 16:50:18 +0000 2011",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "Diari digital des de Roses, tota una Vila.",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               },
+               "url" : {
+                  "urls" : [
+                     {
+                        "display_url" : "viladeroses.cat",
+                        "expanded_url" : "http://www.viladeroses.cat",
+                        "indices" : [ 0, 22 ],
+                        "url" : "http://t.co/XTvWrjH87T"
+                     }
+                  ]
+               }
+            },
+            "favourites_count" : 7,
+            "follow_request_sent" : false,
+            "followers_count" : 1103,
+            "following" : false,
+            "friends_count" : 1028,
+            "geo_enabled" : true,
+            "id" : 240741667,
+            "id_str" : "240741667",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 18,
+            "location" : "Roses, Alt Empordà",
+            "name" : "Vila de Roses",
+            "notifications" : false,
+            "profile_background_color" : "ACDED6",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/240741667/1398239792",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/1235028284/VdR_normal.jpg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/1235028284/VdR_normal.jpg",
+            "profile_link_color" : "038543",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "EEEEEE",
+            "profile_sidebar_fill_color" : "F6F6F6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "ViladeRoses",
+            "statuses_count" : 8502,
+            "time_zone" : "Madrid",
+            "url" : "http://t.co/XTvWrjH87T",
+            "utc_offset" : 3600,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sun Mar 15 05:45:13 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "wp.me/p2L1qQ-6Vr",
+                  "expanded_url" : "http://wp.me/p2L1qQ-6Vr",
+                  "indices" : [ 95, 117 ],
+                  "url" : "http://t.co/mjzNtkhJAA"
+               }
+            ],
+            "user_mentions" : []
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 576982464217817088,
+         "id_str" : "576982464217817088",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+         "text" : "El rosinc Ferdy arriba a Sant Boi de Llobregat després de 9 hores i mitja de bicicleta i pluja http://t.co/mjzNtkhJAA",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Tue Mar 05 21:33:26 +0000 2013",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 1,
+            "follow_request_sent" : false,
+            "followers_count" : 30,
+            "following" : false,
+            "friends_count" : 55,
+            "geo_enabled" : false,
+            "id" : 1244668651,
+            "id_str" : "1244668651",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "es",
+            "listed_count" : 0,
+            "location" : "",
+            "name" : "Pilar Domènech Sastr",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/378800000795042273/bfba5e60e3f11fe6f4c6f457b6678e74_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/378800000795042273/bfba5e60e3f11fe6f4c6f457b6678e74_normal.jpeg",
+            "profile_link_color" : "0084B4",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "PilarDomnechSas",
+            "statuses_count" : 1951,
+            "time_zone" : null,
+            "url" : null,
+            "utc_offset" : null,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sun Mar 15 05:45:12 +0000 2015",
+         "entities" : {
+            "hashtags" : [
+               {
+                  "indices" : [ 12, 17 ],
+                  "text" : "tata"
+               },
+               {
+                  "indices" : [ 18, 22 ],
+                  "text" : "cat"
+               },
+               {
+                  "indices" : [ 23, 30 ],
+                  "text" : "gatita"
+               },
+               {
+                  "indices" : [ 31, 37 ],
+                  "text" : "kawai"
+               },
+               {
+                  "indices" : [ 38, 47 ],
+                  "text" : "catlover"
+               },
+               {
+                  "indices" : [ 48, 55 ],
+                  "text" : "tierna"
+               },
+               {
+                  "indices" : [ 56, 61 ],
+                  "text" : "lulu"
+               },
+               {
+                  "indices" : [ 62, 67 ],
+                  "text" : "love"
+               },
+               {
+                  "indices" : [ 68, 76 ],
+                  "text" : "animals"
+               },
+               {
+                  "indices" : [ 77, 83 ],
+                  "text" : "white"
+               },
+               {
+                  "indices" : [ 84, 90 ],
+                  "text" : "blanq"
+               }
+            ],
+            "media" : [
+               {
+                  "display_url" : "pic.twitter.com/Zo2nkAhsNZ",
+                  "expanded_url" : "http://twitter.com/loveucats/status/576982458761158656/photo/1",
+                  "id" : 576982458694033408,
+                  "id_str" : "576982458694033408",
+                  "indices" : [ 115, 137 ],
+                  "media_url" : "http://pbs.twimg.com/media/CAHafTwW4AARve-.jpg",
+                  "media_url_https" : "https://pbs.twimg.com/media/CAHafTwW4AARve-.jpg",
+                  "sizes" : {
+                     "large" : {
+                        "h" : 640,
+                        "resize" : "fit",
+                        "w" : 640
+                     },
+                     "medium" : {
+                        "h" : 600,
+                        "resize" : "fit",
+                        "w" : 600
+                     },
+                     "small" : {
+                        "h" : 340,
+                        "resize" : "fit",
+                        "w" : 340
+                     },
+                     "thumb" : {
+                        "h" : 150,
+                        "resize" : "crop",
+                        "w" : 150
+                     }
+                  },
+                  "type" : "photo",
+                  "url" : "http://t.co/Zo2nkAhsNZ"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "ift.tt/18NnOiI",
+                  "expanded_url" : "http://ift.tt/18NnOiI",
+                  "indices" : [ 92, 114 ],
+                  "url" : "http://t.co/3GYJbyp2oi"
+               }
+            ],
+            "user_mentions" : []
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 576982458761158656,
+         "id_str" : "576982458761158656",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+         "text" : "Con el tata #tata #cat #gatita #kawai #catlover #tierna #lulu #love #animals #white #blanq… http://t.co/3GYJbyp2oi http://t.co/Zo2nkAhsNZ",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Wed Nov 05 18:52:51 +0000 2014",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "INSTAGRAM @imaakim",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 0,
+            "follow_request_sent" : false,
+            "followers_count" : 1306,
+            "following" : false,
+            "friends_count" : 2,
+            "geo_enabled" : false,
+            "id" : 2891078918,
+            "id_str" : "2891078918",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "th",
+            "listed_count" : 385,
+            "location" : "",
+            "name" : "LoveCAT",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/2891078918/1418955352",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/530070996842082304/ChvhWT5Y_normal.png",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/530070996842082304/ChvhWT5Y_normal.png",
+            "profile_link_color" : "0084B4",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "loveucats",
+            "statuses_count" : 286492,
+            "time_zone" : "Jakarta",
+            "url" : null,
+            "utc_offset" : 25200,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sun Mar 15 05:45:03 +0000 2015",
+         "entities" : {
+            "hashtags" : [
+               {
+                  "indices" : [ 18, 22 ],
+                  "text" : "cat"
+               },
+               {
+                  "indices" : [ 23, 39 ],
+                  "text" : "respiraciónfail"
+               }
+            ],
+            "media" : [
+               {
+                  "display_url" : "pic.twitter.com/cVqDAtDAfw",
+                  "expanded_url" : "http://twitter.com/loveucats/status/576982418978144256/photo/1",
+                  "id" : 576982418931990528,
+                  "id_str" : "576982418931990528",
+                  "indices" : [ 79, 101 ],
+                  "media_url" : "http://pbs.twimg.com/media/CAHac_oWQAAGFid.jpg",
+                  "media_url_https" : "https://pbs.twimg.com/media/CAHac_oWQAAGFid.jpg",
+                  "sizes" : {
+                     "large" : {
+                        "h" : 640,
+                        "resize" : "fit",
+                        "w" : 640
+                     },
+                     "medium" : {
+                        "h" : 600,
+                        "resize" : "fit",
+                        "w" : 600
+                     },
+                     "small" : {
+                        "h" : 340,
+                        "resize" : "fit",
+                        "w" : 340
+                     },
+                     "thumb" : {
+                        "h" : 150,
+                        "resize" : "crop",
+                        "w" : 150
+                     }
+                  },
+                  "type" : "photo",
+                  "url" : "http://t.co/cVqDAtDAfw"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "ift.tt/1BGTSjW",
+                  "expanded_url" : "http://ift.tt/1BGTSjW",
+                  "indices" : [ 56, 78 ],
+                  "url" : "http://t.co/M8uGo6HCaX"
+               }
+            ],
+            "user_mentions" : []
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 576982418978144256,
+         "id_str" : "576982418978144256",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+         "text" : "¡Ataque sorpresa! #cat #respiraciónfail IG &gt; imaakim http://t.co/M8uGo6HCaX http://t.co/cVqDAtDAfw",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Wed Nov 05 18:52:51 +0000 2014",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "INSTAGRAM @imaakim",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 0,
+            "follow_request_sent" : false,
+            "followers_count" : 1306,
+            "following" : false,
+            "friends_count" : 2,
+            "geo_enabled" : false,
+            "id" : 2891078918,
+            "id_str" : "2891078918",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "th",
+            "listed_count" : 385,
+            "location" : "",
+            "name" : "LoveCAT",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/2891078918/1418955352",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/530070996842082304/ChvhWT5Y_normal.png",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/530070996842082304/ChvhWT5Y_normal.png",
+            "profile_link_color" : "0084B4",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "loveucats",
+            "statuses_count" : 286492,
+            "time_zone" : "Jakarta",
+            "url" : null,
+            "utc_offset" : 25200,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sun Mar 15 05:45:00 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "media" : [
+               {
+                  "display_url" : "pic.twitter.com/Y5xXjtJ52N",
+                  "expanded_url" : "http://twitter.com/Earthepics/status/576313766826156032/photo/1",
+                  "id" : 576313766759030784,
+                  "id_str" : "576313766759030784",
+                  "indices" : [ 64, 86 ],
+                  "media_url" : "http://pbs.twimg.com/media/B_96UULW4AAmKby.jpg",
+                  "media_url_https" : "https://pbs.twimg.com/media/B_96UULW4AAmKby.jpg",
+                  "sizes" : {
+                     "large" : {
+                        "h" : 984,
+                        "resize" : "fit",
+                        "w" : 554
+                     },
+                     "medium" : {
+                        "h" : 984,
+                        "resize" : "fit",
+                        "w" : 554
+                     },
+                     "small" : {
+                        "h" : 603,
+                        "resize" : "fit",
+                        "w" : 340
+                     },
+                     "thumb" : {
+                        "h" : 150,
+                        "resize" : "crop",
+                        "w" : 150
+                     }
+                  },
+                  "source_status_id" : 576313766826156032,
+                  "source_status_id_str" : "576313766826156032",
+                  "source_user_id" : 2436300499,
+                  "source_user_id_str" : "2436300499",
+                  "type" : "photo",
+                  "url" : "http://t.co/Y5xXjtJ52N"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [],
+            "user_mentions" : [
+               {
+                  "id" : 1587777884,
+                  "id_str" : "1587777884",
+                  "indices" : [ 3, 15 ],
+                  "name" : "CRYPTNITE",
+                  "screen_name" : "spirit_luna"
+               },
+               {
+                  "id" : 2436300499,
+                  "id_str" : "2436300499",
+                  "indices" : [ 18, 29 ],
+                  "name" : "Earth Pictures",
+                  "screen_name" : "Earthepics"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 576982405942132736,
+         "id_str" : "576982405942132736",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 2,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Sun Mar 15 04:51:53 +0000 2015",
+            "entities" : {
+               "hashtags" : [],
+               "media" : [
+                  {
+                     "display_url" : "pic.twitter.com/Y5xXjtJ52N",
+                     "expanded_url" : "http://twitter.com/Earthepics/status/576313766826156032/photo/1",
+                     "id" : 576313766759030784,
+                     "id_str" : "576313766759030784",
+                     "indices" : [ 47, 69 ],
+                     "media_url" : "http://pbs.twimg.com/media/B_96UULW4AAmKby.jpg",
+                     "media_url_https" : "https://pbs.twimg.com/media/B_96UULW4AAmKby.jpg",
+                     "sizes" : {
+                        "large" : {
+                           "h" : 984,
+                           "resize" : "fit",
+                           "w" : 554
+                        },
+                        "medium" : {
+                           "h" : 984,
+                           "resize" : "fit",
+                           "w" : 554
+                        },
+                        "small" : {
+                           "h" : 603,
+                           "resize" : "fit",
+                           "w" : 340
+                        },
+                        "thumb" : {
+                           "h" : 150,
+                           "resize" : "crop",
+                           "w" : 150
+                        }
+                     },
+                     "source_status_id" : 576313766826156032,
+                     "source_status_id_str" : "576313766826156032",
+                     "source_user_id" : 2436300499,
+                     "source_user_id_str" : "2436300499",
+                     "type" : "photo",
+                     "url" : "http://t.co/Y5xXjtJ52N"
+                  }
+               ],
+               "symbols" : [],
+               "urls" : [],
+               "user_mentions" : [
+                  {
+                     "id" : 2436300499,
+                     "id_str" : "2436300499",
+                     "indices" : [ 1, 12 ],
+                     "name" : "Earth Pictures",
+                     "screen_name" : "Earthepics"
+                  }
+               ]
+            },
+            "favorite_count" : 2,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 576969039592886273,
+            "id_str" : "576969039592886273",
+            "in_reply_to_screen_name" : "Earthepics",
+            "in_reply_to_status_id" : 576313766826156032,
+            "in_reply_to_status_id_str" : "576313766826156032",
+            "in_reply_to_user_id" : 2436300499,
+            "in_reply_to_user_id_str" : "2436300499",
+            "lang" : "es",
+            "metadata" : {
+               "iso_language_code" : "es",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 2,
+            "retweeted" : false,
+            "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text" : "“@Earthepics: Tangolunda Bay, Huatulco, Mexico http://t.co/Y5xXjtJ52N”",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Fri Jul 12 06:34:47 +0000 2013",
+               "default_profile" : true,
+               "default_profile_image" : false,
+               "description" : "I LOVE JAPAN (^_−)−☆ I am a man.",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  }
+               },
+               "favourites_count" : 107198,
+               "follow_request_sent" : false,
+               "followers_count" : 6642,
+               "following" : false,
+               "friends_count" : 3293,
+               "geo_enabled" : true,
+               "id" : 1587777884,
+               "id_str" : "1587777884",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "ja",
+               "listed_count" : 119,
+               "location" : "",
+               "name" : "CRYPTNITE",
+               "notifications" : false,
+               "profile_background_color" : "C0DEED",
+               "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+               "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+               "profile_background_tile" : false,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/1587777884/1410856314",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/423517645879525376/KMRdu8hJ_normal.jpeg",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/423517645879525376/KMRdu8hJ_normal.jpeg",
+               "profile_link_color" : "0084B4",
+               "profile_location" : null,
+               "profile_sidebar_border_color" : "C0DEED",
+               "profile_sidebar_fill_color" : "DDEEF6",
+               "profile_text_color" : "333333",
+               "profile_use_background_image" : true,
+               "protected" : false,
+               "screen_name" : "spirit_luna",
+               "statuses_count" : 111542,
+               "time_zone" : "Tokyo",
+               "url" : null,
+               "utc_offset" : 32400,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>",
+         "text" : "RT @spirit_luna: “@Earthepics: Tangolunda Bay, Huatulco, Mexico http://t.co/Y5xXjtJ52N”",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Thu Mar 20 03:05:55 +0000 2014",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "I love bonjovi,motley crue,kiss and more( ^o^) I love 70s rock♪study english(^_-)-☆宜しくお願いします( ^o^)",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 67546,
+            "follow_request_sent" : false,
+            "followers_count" : 2052,
+            "following" : false,
+            "friends_count" : 367,
+            "geo_enabled" : true,
+            "id" : 2398820214,
+            "id_str" : "2398820214",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ja",
+            "listed_count" : 57,
+            "location" : "",
+            "name" : "cat_jovi",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/2398820214/1426351348",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/575826411673423872/wTCg53xM_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/575826411673423872/wTCg53xM_normal.jpeg",
+            "profile_link_color" : "0084B4",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "cat_jovi",
+            "statuses_count" : 56601,
+            "time_zone" : null,
+            "url" : null,
+            "utc_offset" : null,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sun Mar 15 05:44:34 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "elpuntavui.cat/noticia/articl…",
+                  "expanded_url" : "http://www.elpuntavui.cat/noticia/article/2-societat/-/832461-angoixa-fiscal-en-el-mon-associatiu.html",
+                  "indices" : [ 36, 58 ],
+                  "url" : "http://t.co/A36IXcNHVZ"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 12723412,
+                  "id_str" : "12723412",
+                  "indices" : [ 63, 74 ],
+                  "name" : "El Punt Avui",
+                  "screen_name" : "elpuntavui"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 576982296890322945,
+         "id_str" : "576982296890322945",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>",
+         "text" : "Angoixa fiscal en el món associatiu http://t.co/A36IXcNHVZ via @elpuntavui",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Sun Mar 11 18:43:37 +0000 2012",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "Buscant l'equilibri en el bosc de la desinformació, És complicat triar un titular que desperti interès sense caure en l'exageració.",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 258,
+            "follow_request_sent" : false,
+            "followers_count" : 1726,
+            "following" : false,
+            "friends_count" : 2001,
+            "geo_enabled" : false,
+            "id" : 521560506,
+            "id_str" : "521560506",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 16,
+            "location" : "Països Catalans",
+            "name" : "CarlesEZ ||*||",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/521560506/1410557970",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/512726742289485824/vrZDOj8s_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/512726742289485824/vrZDOj8s_normal.jpeg",
+            "profile_link_color" : "0084B4",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "cms65cat",
+            "statuses_count" : 8317,
+            "time_zone" : "Ljubljana",
+            "url" : null,
+            "utc_offset" : 3600,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sun Mar 15 05:44:23 +0000 2015",
+         "entities" : {
+            "hashtags" : [
+               {
+                  "indices" : [ 67, 73 ],
+                  "text" : "drama"
+               },
+               {
+                  "indices" : [ 74, 81 ],
+                  "text" : "ficcio"
+               },
+               {
+                  "indices" : [ 82, 92 ],
+                  "text" : "narrativa"
+               },
+               {
+                  "indices" : [ 93, 99 ],
+                  "text" : "novel"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "bit.ly/1BgsZCC",
+                  "expanded_url" : "http://bit.ly/1BgsZCC",
+                  "indices" : [ 42, 64 ],
+                  "url" : "http://t.co/Orvm47bPDz"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 375129389,
+                  "id_str" : "375129389",
+                  "indices" : [ 113, 120 ],
+                  "name" : "Grup62",
+                  "screen_name" : "Grup62"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 576982250643947520,
+         "id_str" : "576982250643947520",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://www.ajaymatharu.com/\" rel=\"nofollow\">Tweet Old Post</a>",
+         "text" : "L'herba de les nits, de Patrick Modiano   http://t.co/Orvm47bPDz\n  #drama #ficcio #narrativa #novel%c2%b7lanegra @Grup62",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Thu Mar 11 23:38:10 +0000 2010",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "http://t.co/IN5U6waA és un espai per parlar de llibres, de novetats, de clàssics, de premis literaris o de recomanacions de lectura per a petits i grans.",
+            "entities" : {
+               "description" : {
+                  "urls" : [
+                     {
+                        "display_url" : "Nosaltresllegim.cat",
+                        "expanded_url" : "http://Nosaltresllegim.cat",
+                        "indices" : [ 0, 20 ],
+                        "url" : "http://t.co/IN5U6waA"
+                     }
+                  ]
+               },
+               "url" : {
+                  "urls" : [
+                     {
+                        "display_url" : "nosaltresllegim.cat",
+                        "expanded_url" : "http://www.nosaltresllegim.cat",
+                        "indices" : [ 0, 22 ],
+                        "url" : "http://t.co/tSrze87ckl"
+                     }
+                  ]
+               }
+            },
+            "favourites_count" : 68,
+            "follow_request_sent" : false,
+            "followers_count" : 2776,
+            "following" : false,
+            "friends_count" : 1537,
+            "geo_enabled" : false,
+            "id" : 122204501,
+            "id_str" : "122204501",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 135,
+            "location" : "Catalunya",
+            "name" : "Nosaltresllegim",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/82553695/nosaltresllegim2.jpg",
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/82553695/nosaltresllegim2.jpg",
+            "profile_background_tile" : true,
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/1324018901/avatar_nosaltres_estatic_normal.jpg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/1324018901/avatar_nosaltres_estatic_normal.jpg",
+            "profile_link_color" : "0084B4",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "Nosaltresllegim",
+            "statuses_count" : 3135,
+            "time_zone" : "Madrid",
+            "url" : "http://t.co/tSrze87ckl",
+            "utc_offset" : 3600,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sun Mar 15 05:44:15 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "lanacion.com.ar/1775251-a-part…",
+                  "expanded_url" : "http://www.lanacion.com.ar/1775251-a-partir-del-1-de-julio-ya-no-se-podran-emitir-facturas-impresas",
+                  "indices" : [ 36, 58 ],
+                  "url" : "http://t.co/8PelvBO6NM"
+               }
+            ],
+            "user_mentions" : []
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 576982219736113152,
+         "id_str" : "576982219736113152",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : true,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+         "text" : "Menos para Monotributo hasta Cat. G\nhttp://t.co/8PelvBO6NM",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Fri May 02 23:35:37 +0000 2014",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "La respuesta aguda llegará a destiempo",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 4826,
+            "follow_request_sent" : false,
+            "followers_count" : 180,
+            "following" : false,
+            "friends_count" : 353,
+            "geo_enabled" : false,
+            "id" : 2474675197,
+            "id_str" : "2474675197",
+            "is_translation_enabled" : true,
+            "is_translator" : false,
+            "lang" : "es",
+            "listed_count" : 1,
+            "location" : "Las Torres de Salcedo",
+            "name" : "Katow",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/2474675197/1425693940",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/566820971978293248/bv3wtjlR_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/566820971978293248/bv3wtjlR_normal.jpeg",
+            "profile_link_color" : "4A913C",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "GustavodeLeonar",
+            "statuses_count" : 8927,
+            "time_zone" : "Buenos Aires",
+            "url" : null,
+            "utc_offset" : -10800,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sun Mar 15 05:43:45 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "youtu.be/TIQVVRxMQAE",
+                  "expanded_url" : "https://youtu.be/TIQVVRxMQAE",
+                  "indices" : [ 69, 92 ],
+                  "url" : "https://t.co/6C6SVHhzMD"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 10228272,
+                  "id_str" : "10228272",
+                  "indices" : [ 97, 105 ],
+                  "name" : "YouTube",
+                  "screen_name" : "YouTube"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 576982094133530624,
+         "id_str" : "576982094133530624",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+         "text" : "PHANTON, MR FOX, MURDER CAT, RD MARAVILLA       SI  TU  MAMA TV ERA: https://t.co/6C6SVHhzMD vía @YouTube",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Fri Jun 20 19:37:39 +0000 2014",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 112,
+            "follow_request_sent" : false,
+            "followers_count" : 49,
+            "following" : false,
+            "friends_count" : 308,
+            "geo_enabled" : false,
+            "id" : 2579154728,
+            "id_str" : "2579154728",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "es",
+            "listed_count" : 0,
+            "location" : "",
+            "name" : "joel orlando",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/2579154728/1426126225",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/480083313923596288/L5iuxKs6_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/480083313923596288/L5iuxKs6_normal.jpeg",
+            "profile_link_color" : "24B300",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "castelo282",
+            "statuses_count" : 189,
+            "time_zone" : null,
+            "url" : null,
+            "utc_offset" : null,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sun Mar 15 05:43:10 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "media" : [
+               {
+                  "display_url" : "pic.twitter.com/XYxgjRFs0x",
+                  "expanded_url" : "http://twitter.com/BlogMediterrani/status/576981945634160640/photo/1",
+                  "id" : 576981945575440384,
+                  "id_str" : "576981945575440384",
+                  "indices" : [ 70, 92 ],
+                  "media_url" : "http://pbs.twimg.com/media/CAHaBcPWgAA4xm2.jpg",
+                  "media_url_https" : "https://pbs.twimg.com/media/CAHaBcPWgAA4xm2.jpg",
+                  "sizes" : {
+                     "large" : {
+                        "h" : 339,
+                        "resize" : "fit",
+                        "w" : 512
+                     },
+                     "medium" : {
+                        "h" : 339,
+                        "resize" : "fit",
+                        "w" : 512
+                     },
+                     "small" : {
+                        "h" : 225,
+                        "resize" : "fit",
+                        "w" : 340
+                     },
+                     "thumb" : {
+                        "h" : 150,
+                        "resize" : "crop",
+                        "w" : 150
+                     }
+                  },
+                  "type" : "photo",
+                  "url" : "http://t.co/XYxgjRFs0x"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "dld.bz/d8AXV",
+                  "expanded_url" : "http://dld.bz/d8AXV",
+                  "indices" : [ 47, 69 ],
+                  "url" : "http://t.co/fQMBtra8yL"
+               }
+            ],
+            "user_mentions" : []
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 576981945634160640,
+         "id_str" : "576981945634160640",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://www.socialoomph.com\" rel=\"nofollow\">SocialOomph</a>",
+         "text" : "Guia Ciclista per a No-Idiotes: tercer capítol http://t.co/fQMBtra8yL http://t.co/XYxgjRFs0x",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Sun Aug 28 15:10:21 +0000 2011",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "Des de la Mediterrània",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               },
+               "url" : {
+                  "urls" : [
+                     {
+                        "display_url" : "desdelamediterrania.cat",
+                        "expanded_url" : "http://desdelamediterrania.cat",
+                        "indices" : [ 0, 22 ],
+                        "url" : "http://t.co/Tp1V0O9OTR"
+                     }
+                  ]
+               }
+            },
+            "favourites_count" : 0,
+            "follow_request_sent" : false,
+            "followers_count" : 7443,
+            "following" : false,
+            "friends_count" : 6944,
+            "geo_enabled" : false,
+            "id" : 363704742,
+            "id_str" : "363704742",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 119,
+            "location" : "",
+            "name" : "DesDeLaMediterrània",
+            "notifications" : false,
+            "profile_background_color" : "9AE4E8",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme16/bg.gif",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/363704742/1358591340",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/1517494663/mar2_normal.jpg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/1517494663/mar2_normal.jpg",
+            "profile_link_color" : "0084B4",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "BDDCAD",
+            "profile_sidebar_fill_color" : "DDFFCC",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "BlogMediterrani",
+            "statuses_count" : 48749,
+            "time_zone" : "Prague",
+            "url" : "http://t.co/Tp1V0O9OTR",
+            "utc_offset" : 3600,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sun Mar 15 05:43:03 +0000 2015",
+         "entities" : {
+            "hashtags" : [
+               {
+                  "indices" : [ 69, 85 ],
+                  "text" : "FinishYulin2015"
+               }
+            ],
+            "media" : [
+               {
+                  "display_url" : "pic.twitter.com/6Nx01YPQvy",
+                  "expanded_url" : "http://twitter.com/PicturePop/status/562195551027224576/photo/1",
+                  "id" : 562195514557730816,
+                  "id_str" : "562195514557730816",
+                  "indices" : [ 86, 108 ],
+                  "media_url" : "http://pbs.twimg.com/media/B81R14OIEAA9EPz.jpg",
+                  "media_url_https" : "https://pbs.twimg.com/media/B81R14OIEAA9EPz.jpg",
+                  "sizes" : {
+                     "large" : {
+                        "h" : 1024,
+                        "resize" : "fit",
+                        "w" : 1024
+                     },
+                     "medium" : {
+                        "h" : 600,
+                        "resize" : "fit",
+                        "w" : 600
+                     },
+                     "small" : {
+                        "h" : 340,
+                        "resize" : "fit",
+                        "w" : 340
+                     },
+                     "thumb" : {
+                        "h" : 150,
+                        "resize" : "crop",
+                        "w" : 150
+                     }
+                  },
+                  "source_status_id" : 562195551027224576,
+                  "source_status_id_str" : "562195551027224576",
+                  "source_user_id" : 2961801411,
+                  "source_user_id_str" : "2961801411",
+                  "type" : "photo",
+                  "url" : "http://t.co/6Nx01YPQvy"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "on.fb.me/1t1UxUR",
+                  "expanded_url" : "http://on.fb.me/1t1UxUR",
+                  "indices" : [ 109, 131 ],
+                  "url" : "http://t.co/f248qLc2rU"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 132255819,
+                  "id_str" : "132255819",
+                  "indices" : [ 1, 11 ],
+                  "name" : "laura sanchez lopez",
+                  "screen_name" : "lasanchez"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 576981915661643776,
+         "id_str" : "576981915661643776",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://www.socialoomph.com\" rel=\"nofollow\">SocialOomph</a>",
+         "text" : ".@lasanchez Acabemos con este festival y con la tortura de inocentes #FinishYulin2015 http://t.co/6Nx01YPQvy http://t.co/f248qLc2rU",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Tue Nov 25 12:41:33 +0000 2014",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "The impossible just takes a little longer!\nLo imposible solo tarda un poco más !",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 139,
+            "follow_request_sent" : false,
+            "followers_count" : 551,
+            "following" : false,
+            "friends_count" : 478,
+            "geo_enabled" : false,
+            "id" : 2891939015,
+            "id_str" : "2891939015",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "es",
+            "listed_count" : 4,
+            "location" : "",
+            "name" : "Mabel VG",
+            "notifications" : false,
+            "profile_background_color" : "ACDED6",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/541019460656566272/YuLamnFO.jpeg",
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/541019460656566272/YuLamnFO.jpeg",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/2891939015/1416923042",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/537239731013029888/_QUzrmMy_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/537239731013029888/_QUzrmMy_normal.jpeg",
+            "profile_link_color" : "94D487",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "C6E2EE",
+            "profile_sidebar_fill_color" : "DAECF4",
+            "profile_text_color" : "663B12",
+            "profile_use_background_image" : false,
+            "protected" : false,
+            "screen_name" : "VGMabel",
+            "statuses_count" : 47515,
+            "time_zone" : null,
+            "url" : null,
+            "utc_offset" : null,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sun Mar 15 05:42:42 +0000 2015",
+         "entities" : {
+            "hashtags" : [
+               {
+                  "indices" : [ 95, 101 ],
+                  "text" : "trial"
+               }
+            ],
+            "media" : [
+               {
+                  "display_url" : "pic.twitter.com/J32LZgDeA4",
+                  "expanded_url" : "http://twitter.com/ARAesports/status/576980912933601281/photo/1",
+                  "id" : 576980910773501952,
+                  "id_str" : "576980910773501952",
+                  "indices" : [ 139, 140 ],
+                  "media_url" : "http://pbs.twimg.com/media/CAHZFNTWAAAEnfw.jpg",
+                  "media_url_https" : "https://pbs.twimg.com/media/CAHZFNTWAAAEnfw.jpg",
+                  "sizes" : {
+                     "large" : {
+                        "h" : 682,
+                        "resize" : "fit",
+                        "w" : 1024
+                     },
+                     "medium" : {
+                        "h" : 400,
+                        "resize" : "fit",
+                        "w" : 600
+                     },
+                     "small" : {
+                        "h" : 226,
+                        "resize" : "fit",
+                        "w" : 340
+                     },
+                     "thumb" : {
+                        "h" : 150,
+                        "resize" : "crop",
+                        "w" : 150
+                     }
+                  },
+                  "source_status_id" : 576980912933601281,
+                  "source_status_id_str" : "576980912933601281",
+                  "source_user_id" : 193774593,
+                  "source_user_id_str" : "193774593",
+                  "type" : "photo",
+                  "url" : "http://t.co/J32LZgDeA4"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "ara.cat/_4ebde645?s=t",
+                  "expanded_url" : "http://ara.cat/_4ebde645?s=t",
+                  "indices" : [ 111, 133 ],
+                  "url" : "http://t.co/45d92UgcUi"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 193774593,
+                  "id_str" : "193774593",
+                  "indices" : [ 3, 14 ],
+                  "name" : "ARA Esports",
+                  "screen_name" : "ARAesports"
+               },
+               {
+                  "id" : 477804172,
+                  "id_str" : "477804172",
+                  "indices" : [ 37, 53 ],
+                  "name" : "Toni_Bou_Dynamite",
+                  "screen_name" : "Toni_Bou_Dynami"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 576981827824574465,
+         "id_str" : "576981827824574465",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 1,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Sun Mar 15 05:39:04 +0000 2015",
+            "entities" : {
+               "hashtags" : [
+                  {
+                     "indices" : [ 79, 85 ],
+                     "text" : "trial"
+                  }
+               ],
+               "media" : [
+                  {
+                     "display_url" : "pic.twitter.com/J32LZgDeA4",
+                     "expanded_url" : "http://twitter.com/ARAesports/status/576980912933601281/photo/1",
+                     "id" : 576980910773501952,
+                     "id_str" : "576980910773501952",
+                     "indices" : [ 118, 140 ],
+                     "media_url" : "http://pbs.twimg.com/media/CAHZFNTWAAAEnfw.jpg",
+                     "media_url_https" : "https://pbs.twimg.com/media/CAHZFNTWAAAEnfw.jpg",
+                     "sizes" : {
+                        "large" : {
+                           "h" : 682,
+                           "resize" : "fit",
+                           "w" : 1024
+                        },
+                        "medium" : {
+                           "h" : 400,
+                           "resize" : "fit",
+                           "w" : 600
+                        },
+                        "small" : {
+                           "h" : 226,
+                           "resize" : "fit",
+                           "w" : 340
+                        },
+                        "thumb" : {
+                           "h" : 150,
+                           "resize" : "crop",
+                           "w" : 150
+                        }
+                     },
+                     "type" : "photo",
+                     "url" : "http://t.co/J32LZgDeA4"
+                  }
+               ],
+               "symbols" : [],
+               "urls" : [
+                  {
+                     "display_url" : "ara.cat/_4ebde645?s=t",
+                     "expanded_url" : "http://ara.cat/_4ebde645?s=t",
+                     "indices" : [ 95, 117 ],
+                     "url" : "http://t.co/45d92UgcUi"
+                  }
+               ],
+               "user_mentions" : [
+                  {
+                     "id" : 477804172,
+                     "id_str" : "477804172",
+                     "indices" : [ 21, 37 ],
+                     "name" : "Toni_Bou_Dynamite",
+                     "screen_name" : "Toni_Bou_Dynami"
+                  }
+               ]
+            },
+            "favorite_count" : 1,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 576980912933601281,
+            "id_str" : "576980912933601281",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "lang" : "es",
+            "metadata" : {
+               "iso_language_code" : "es",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 1,
+            "retweeted" : false,
+            "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text" : "Un títol més al sac! @Toni_Bou_Dynami guanya a Viena i suma el seu 9è títol de #trial 'indoor' http://t.co/45d92UgcUi http://t.co/J32LZgDeA4",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Wed Sep 22 17:17:40 +0000 2010",
+               "default_profile" : false,
+               "default_profile_image" : false,
+               "description" : "Secció d'Esports del @diariARA",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  },
+                  "url" : {
+                     "urls" : [
+                        {
+                           "display_url" : "ara.cat/esports/",
+                           "expanded_url" : "http://www.ara.cat/esports/",
+                           "indices" : [ 0, 22 ],
+                           "url" : "http://t.co/8jpBAHNe3p"
+                        }
+                     ]
+                  }
+               },
+               "favourites_count" : 13,
+               "follow_request_sent" : false,
+               "followers_count" : 30910,
+               "following" : false,
+               "friends_count" : 861,
+               "geo_enabled" : false,
+               "id" : 193774593,
+               "id_str" : "193774593",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "ca",
+               "listed_count" : 719,
+               "location" : "Catalunya",
+               "name" : "ARA Esports",
+               "notifications" : false,
+               "profile_background_color" : "00667F",
+               "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/172973612/fons_esports.jpg",
+               "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/172973612/fons_esports.jpg",
+               "profile_background_tile" : false,
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/1741287874/araesports_normal.png",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/1741287874/araesports_normal.png",
+               "profile_link_color" : "0084B4",
+               "profile_location" : null,
+               "profile_sidebar_border_color" : "E9E9E9",
+               "profile_sidebar_fill_color" : "CCCCCC",
+               "profile_text_color" : "333333",
+               "profile_use_background_image" : true,
+               "protected" : false,
+               "screen_name" : "ARAesports",
+               "statuses_count" : 76913,
+               "time_zone" : "Paris",
+               "url" : "http://t.co/8jpBAHNe3p",
+               "utc_offset" : 3600,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "text" : "RT @ARAesports: Un títol més al sac! @Toni_Bou_Dynami guanya a Viena i suma el seu 9è títol de #trial 'indoor' http://t.co/45d92UgcUi http:…",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Mon Oct 24 16:12:14 +0000 2011",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "Estudiant de Fisioteràpia.\r\nAmant de l'esport, la mar, la música i el teatre.",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               },
+               "url" : {
+                  "urls" : [
+                     {
+                        "display_url" : "facebook.com/thewayIseethew…",
+                        "expanded_url" : "http://www.facebook.com/thewayIseetheworld12",
+                        "indices" : [ 0, 22 ],
+                        "url" : "http://t.co/zf3ZjxmKNc"
+                     }
+                  ]
+               }
+            },
+            "favourites_count" : 4936,
+            "follow_request_sent" : false,
+            "followers_count" : 353,
+            "following" : false,
+            "friends_count" : 886,
+            "geo_enabled" : true,
+            "id" : 397374924,
+            "id_str" : "397374924",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 4,
+            "location" : "Barcelona",
+            "name" : "Sara Zabaleta",
+            "notifications" : false,
+            "profile_background_color" : "FFF04D",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/378800000114790416/418ff47fa4de14dec83dd3c915b0c54a.jpeg",
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/378800000114790416/418ff47fa4de14dec83dd3c915b0c54a.jpeg",
+            "profile_background_tile" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/397374924/1426174249",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/540444192955064322/Qr-CjQwb_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/540444192955064322/Qr-CjQwb_normal.jpeg",
+            "profile_link_color" : "0099CC",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "FFFFFF",
+            "profile_sidebar_fill_color" : "F6FFD1",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "SaraZabaleta12",
+            "statuses_count" : 7064,
+            "time_zone" : "Brussels",
+            "url" : "http://t.co/zf3ZjxmKNc",
+            "utc_offset" : 3600,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sun Mar 15 05:42:37 +0000 2015",
+         "entities" : {
+            "hashtags" : [
+               {
+                  "indices" : [ 2, 13 ],
+                  "text" : "TeamYamita"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "bit.ly/1AFipkt",
+                  "expanded_url" : "http://bit.ly/1AFipkt",
+                  "indices" : [ 98, 120 ],
+                  "url" : "http://t.co/fYUA7lhGaz"
+               }
+            ],
+            "user_mentions" : []
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 576981809595953152,
+         "id_str" : "576981809595953152",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitterfeed.com\" rel=\"nofollow\">twitterfeed</a>",
+         "text" : "( #TeamYamita ) Llensa aprova el pla d'inversions fent ús del vot de qualitat: L'Ajuntament de... http://t.co/fYUA7lhGaz Entra A eL Link",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Sat Dec 07 14:21:43 +0000 2013",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 3,
+            "follow_request_sent" : false,
+            "followers_count" : 53,
+            "following" : false,
+            "friends_count" : 8,
+            "geo_enabled" : false,
+            "id" : 2234591298,
+            "id_str" : "2234591298",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "es",
+            "listed_count" : 6,
+            "location" : "",
+            "name" : "yeison",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/378800000159797622/mzPIx58-.jpeg",
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/378800000159797622/mzPIx58-.jpeg",
+            "profile_background_tile" : true,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/2234591298/1386642727",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/378800000852763529/710080331f45f13c2f35fd88c731caeb_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/378800000852763529/710080331f45f13c2f35fd88c731caeb_normal.jpeg",
+            "profile_link_color" : "0084B5",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "000000",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "YeisonFlechaR_",
+            "statuses_count" : 115142,
+            "time_zone" : "Atlantic Time (Canada)",
+            "url" : null,
+            "utc_offset" : -10800,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sun Mar 15 05:42:37 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "vilaweb.cat/noticia/423596…",
+                  "expanded_url" : "http://www.vilaweb.cat/noticia/4235966/20150315/operacio-risc-nomes-labast-pobles-valents.html",
+                  "indices" : [ 70, 92 ],
+                  "url" : "http://t.co/ykLxmZErEu"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 151085945,
+                  "id_str" : "151085945",
+                  "indices" : [ 97, 105 ],
+                  "name" : "VilaWeb",
+                  "screen_name" : "VilaWeb"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 576981807796736000,
+         "id_str" : "576981807796736000",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>",
+         "text" : "'Una operació de risc nomes és a l'abast de pobles valents' - VilaWeb http://t.co/ykLxmZErEu via @vilaweb",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Sun Mar 11 18:43:37 +0000 2012",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "Buscant l'equilibri en el bosc de la desinformació, És complicat triar un titular que desperti interès sense caure en l'exageració.",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 258,
+            "follow_request_sent" : false,
+            "followers_count" : 1726,
+            "following" : false,
+            "friends_count" : 2001,
+            "geo_enabled" : false,
+            "id" : 521560506,
+            "id_str" : "521560506",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 16,
+            "location" : "Països Catalans",
+            "name" : "CarlesEZ ||*||",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/521560506/1410557970",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/512726742289485824/vrZDOj8s_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/512726742289485824/vrZDOj8s_normal.jpeg",
+            "profile_link_color" : "0084B4",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "cms65cat",
+            "statuses_count" : 8317,
+            "time_zone" : "Ljubljana",
+            "url" : null,
+            "utc_offset" : 3600,
+            "verified" : false
+         }
+      }
+   ]
+}
+

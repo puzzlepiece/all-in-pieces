@@ -1,0 +1,2515 @@
+{
+   "search_metadata" : {
+      "completed_in" : 0.058,
+      "count" : 15,
+      "max_id" : 576863054043971584,
+      "max_id_str" : "576863054043971584",
+      "next_results" : "?max_id=576862938428006399&q=cat&lang=es&include_entities=1",
+      "query" : "cat",
+      "refresh_url" : "?since_id=576863054043971584&q=cat&lang=es&include_entities=1",
+      "since_id" : 0,
+      "since_id_str" : "0"
+   },
+   "statuses" : [
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sat Mar 14 21:50:44 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "ara.cat/_4eb4bf2e?s=t",
+                  "expanded_url" : "http://ara.cat/_4eb4bf2e?s=t",
+                  "indices" : [ 107, 129 ],
+                  "url" : "http://t.co/Xut1P6ikHv"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 193770843,
+                  "id_str" : "193770843",
+                  "indices" : [ 3, 15 ],
+                  "name" : "ARA Societat",
+                  "screen_name" : "ARAsocietat"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 576863054043971584,
+         "id_str" : "576863054043971584",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 14,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Sat Mar 14 19:54:47 +0000 2015",
+            "entities" : {
+               "hashtags" : [],
+               "symbols" : [],
+               "urls" : [
+                  {
+                     "display_url" : "ara.cat/_4eb4bf2e?s=t",
+                     "expanded_url" : "http://ara.cat/_4eb4bf2e?s=t",
+                     "indices" : [ 90, 112 ],
+                     "url" : "http://t.co/Xut1P6ikHv"
+                  }
+               ],
+               "user_mentions" : []
+            },
+            "favorite_count" : 5,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 576833873528659969,
+            "id_str" : "576833873528659969",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "lang" : "es",
+            "metadata" : {
+               "iso_language_code" : "es",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 14,
+            "retweeted" : false,
+            "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text" : "Protecció Civil avisa que la cota de neu pot baixar dels 400 metres en les properes hores http://t.co/Xut1P6ikHv",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Wed Sep 22 17:06:24 +0000 2010",
+               "default_profile" : false,
+               "default_profile_image" : false,
+               "description" : "Secció de Societat del @diariARA",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  },
+                  "url" : {
+                     "urls" : [
+                        {
+                           "display_url" : "ara.cat/societat/",
+                           "expanded_url" : "http://www.ara.cat/societat/",
+                           "indices" : [ 0, 22 ],
+                           "url" : "http://t.co/qixG1BrCBA"
+                        }
+                     ]
+                  }
+               },
+               "favourites_count" : 30,
+               "follow_request_sent" : false,
+               "followers_count" : 15186,
+               "following" : false,
+               "friends_count" : 706,
+               "geo_enabled" : true,
+               "id" : 193770843,
+               "id_str" : "193770843",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "ca",
+               "listed_count" : 390,
+               "location" : "",
+               "name" : "ARA Societat",
+               "notifications" : false,
+               "profile_background_color" : "00667F",
+               "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/172911278/fons_societat.jpg",
+               "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/172911278/fons_societat.jpg",
+               "profile_background_tile" : false,
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/1741292123/arasocietat_normal.png",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/1741292123/arasocietat_normal.png",
+               "profile_link_color" : "0084B4",
+               "profile_location" : null,
+               "profile_sidebar_border_color" : "E9E9E9",
+               "profile_sidebar_fill_color" : "CCCCCC",
+               "profile_text_color" : "333333",
+               "profile_use_background_image" : true,
+               "protected" : false,
+               "screen_name" : "ARAsocietat",
+               "statuses_count" : 24874,
+               "time_zone" : "Paris",
+               "url" : "http://t.co/qixG1BrCBA",
+               "utc_offset" : 3600,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "text" : "RT @ARAsocietat: Protecció Civil avisa que la cota de neu pot baixar dels 400 metres en les properes hores http://t.co/Xut1P6ikHv",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Sun Sep 21 15:06:21 +0000 2014",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 14,
+            "follow_request_sent" : false,
+            "followers_count" : 14,
+            "following" : false,
+            "friends_count" : 34,
+            "geo_enabled" : false,
+            "id" : 2779040013,
+            "id_str" : "2779040013",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 1,
+            "location" : "",
+            "name" : "Jaume Ferrer Tarrats",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/2779040013/1411314617",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/513716721501630464/WFxEWrVI_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/513716721501630464/WFxEWrVI_normal.jpeg",
+            "profile_link_color" : "0084B4",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "JaumeTarrats",
+            "statuses_count" : 415,
+            "time_zone" : null,
+            "url" : null,
+            "utc_offset" : null,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sat Mar 14 21:50:40 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "media" : [
+               {
+                  "display_url" : "pic.twitter.com/0FQcOxHzEk",
+                  "expanded_url" : "http://twitter.com/Radiolot/status/576392277926535168/photo/1",
+                  "id" : 576392276168998912,
+                  "id_str" : "576392276168998912",
+                  "indices" : [ 139, 140 ],
+                  "media_url" : "http://pbs.twimg.com/media/B__BuKhVAAALjFH.jpg",
+                  "media_url_https" : "https://pbs.twimg.com/media/B__BuKhVAAALjFH.jpg",
+                  "sizes" : {
+                     "large" : {
+                        "h" : 768,
+                        "resize" : "fit",
+                        "w" : 1024
+                     },
+                     "medium" : {
+                        "h" : 450,
+                        "resize" : "fit",
+                        "w" : 600
+                     },
+                     "small" : {
+                        "h" : 255,
+                        "resize" : "fit",
+                        "w" : 340
+                     },
+                     "thumb" : {
+                        "h" : 150,
+                        "resize" : "crop",
+                        "w" : 150
+                     }
+                  },
+                  "source_status_id" : 576392277926535168,
+                  "source_status_id_str" : "576392277926535168",
+                  "source_user_id" : 252135818,
+                  "source_user_id_str" : "252135818",
+                  "type" : "photo",
+                  "url" : "http://t.co/0FQcOxHzEk"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "radiolot.cat/noticies/neix-…",
+                  "expanded_url" : "http://www.radiolot.cat/noticies/neix-la-vall-plural-llista-dindependents-a-la-vall-den-bas/",
+                  "indices" : [ 107, 129 ],
+                  "url" : "http://t.co/LQ0qGCZLPC"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 252135818,
+                  "id_str" : "252135818",
+                  "indices" : [ 3, 12 ],
+                  "name" : "Ràdio Olot",
+                  "screen_name" : "Radiolot"
+               },
+               {
+                  "id" : 3044568423,
+                  "id_str" : "3044568423",
+                  "indices" : [ 19, 32 ],
+                  "name" : "La Vall Plural",
+                  "screen_name" : "LaVallPlural"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 576863039552688128,
+         "id_str" : "576863039552688128",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 3,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Fri Mar 13 14:40:02 +0000 2015",
+            "entities" : {
+               "hashtags" : [],
+               "media" : [
+                  {
+                     "display_url" : "pic.twitter.com/0FQcOxHzEk",
+                     "expanded_url" : "http://twitter.com/Radiolot/status/576392277926535168/photo/1",
+                     "id" : 576392276168998912,
+                     "id_str" : "576392276168998912",
+                     "indices" : [ 116, 138 ],
+                     "media_url" : "http://pbs.twimg.com/media/B__BuKhVAAALjFH.jpg",
+                     "media_url_https" : "https://pbs.twimg.com/media/B__BuKhVAAALjFH.jpg",
+                     "sizes" : {
+                        "large" : {
+                           "h" : 768,
+                           "resize" : "fit",
+                           "w" : 1024
+                        },
+                        "medium" : {
+                           "h" : 450,
+                           "resize" : "fit",
+                           "w" : 600
+                        },
+                        "small" : {
+                           "h" : 255,
+                           "resize" : "fit",
+                           "w" : 340
+                        },
+                        "thumb" : {
+                           "h" : 150,
+                           "resize" : "crop",
+                           "w" : 150
+                        }
+                     },
+                     "type" : "photo",
+                     "url" : "http://t.co/0FQcOxHzEk"
+                  }
+               ],
+               "symbols" : [],
+               "urls" : [
+                  {
+                     "display_url" : "radiolot.cat/noticies/neix-…",
+                     "expanded_url" : "http://www.radiolot.cat/noticies/neix-la-vall-plural-llista-dindependents-a-la-vall-den-bas/",
+                     "indices" : [ 93, 115 ],
+                     "url" : "http://t.co/LQ0qGCZLPC"
+                  }
+               ],
+               "user_mentions" : [
+                  {
+                     "id" : 3044568423,
+                     "id_str" : "3044568423",
+                     "indices" : [ 5, 18 ],
+                     "name" : "La Vall Plural",
+                     "screen_name" : "LaVallPlural"
+                  }
+               ]
+            },
+            "favorite_count" : 0,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 576392277926535168,
+            "id_str" : "576392277926535168",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "lang" : "es",
+            "metadata" : {
+               "iso_language_code" : "es",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 3,
+            "retweeted" : false,
+            "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text" : "Neix @LaVallPlural, que es presenta a les eleccions del proper 24 de maig a la Vall d'en Bas http://t.co/LQ0qGCZLPC http://t.co/0FQcOxHzEk",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Mon Feb 14 15:28:17 +0000 2011",
+               "default_profile" : false,
+               "default_profile_image" : false,
+               "description" : "La primera ràdio en català. Emetem per les comarques de Girona i Osona. Ara i sempre, la referència de la Garrotxa.",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  },
+                  "url" : {
+                     "urls" : [
+                        {
+                           "display_url" : "radiolot.cat",
+                           "expanded_url" : "http://www.radiolot.cat",
+                           "indices" : [ 0, 22 ],
+                           "url" : "http://t.co/qohXmFnLb9"
+                        }
+                     ]
+                  }
+               },
+               "favourites_count" : 270,
+               "follow_request_sent" : false,
+               "followers_count" : 3741,
+               "following" : false,
+               "friends_count" : 1108,
+               "geo_enabled" : false,
+               "id" : 252135818,
+               "id_str" : "252135818",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "ca",
+               "listed_count" : 83,
+               "location" : "Olot, Girona",
+               "name" : "Ràdio Olot",
+               "notifications" : false,
+               "profile_background_color" : "FFFFFF",
+               "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/697896816/92985d0cf2bcf17f8d0f07f1bbbbd477.jpeg",
+               "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/697896816/92985d0cf2bcf17f8d0f07f1bbbbd477.jpeg",
+               "profile_background_tile" : false,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/252135818/1420622388",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/552756289764208640/8OxrlrRD_normal.jpeg",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/552756289764208640/8OxrlrRD_normal.jpeg",
+               "profile_link_color" : "009999",
+               "profile_location" : null,
+               "profile_sidebar_border_color" : "FFFFFF",
+               "profile_sidebar_fill_color" : "EFEFEF",
+               "profile_text_color" : "333333",
+               "profile_use_background_image" : true,
+               "protected" : false,
+               "screen_name" : "Radiolot",
+               "statuses_count" : 10907,
+               "time_zone" : "Paris",
+               "url" : "http://t.co/qohXmFnLb9",
+               "utc_offset" : 3600,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "text" : "RT @Radiolot: Neix @LaVallPlural, que es presenta a les eleccions del proper 24 de maig a la Vall d'en Bas http://t.co/LQ0qGCZLPC http://t.…",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Sat Oct 06 08:14:18 +0000 2012",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "Infermeria integrativa. Cuidar sempre, curar a vegades.",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 217,
+            "follow_request_sent" : false,
+            "followers_count" : 122,
+            "following" : false,
+            "friends_count" : 375,
+            "geo_enabled" : false,
+            "id" : 864330120,
+            "id_str" : "864330120",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "es",
+            "listed_count" : 3,
+            "location" : "Barcelona",
+            "name" : "Laia Masllorens",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/864330120/1412110005",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/517051680110964736/D4JOyyjL_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/517051680110964736/D4JOyyjL_normal.jpeg",
+            "profile_link_color" : "0084B4",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "laia_masllorens",
+            "statuses_count" : 959,
+            "time_zone" : null,
+            "url" : null,
+            "utc_offset" : null,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sat Mar 14 21:50:36 +0000 2015",
+         "entities" : {
+            "hashtags" : [
+               {
+                  "indices" : [ 20, 27 ],
+                  "text" : "4CAT10"
+               },
+               {
+                  "indices" : [ 70, 80 ],
+                  "text" : "futbolcat"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "ht.ly/KhELs",
+                  "expanded_url" : "http://ht.ly/KhELs",
+                  "indices" : [ 47, 69 ],
+                  "url" : "http://t.co/01A0Od4FaR"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 126578732,
+                  "id_str" : "126578732",
+                  "indices" : [ 3, 18 ],
+                  "name" : "esportspenedes",
+                  "screen_name" : "esportspenedes"
+               },
+               {
+                  "id" : 384419370,
+                  "id_str" : "384419370",
+                  "indices" : [ 89, 102 ],
+                  "name" : "F. C. HORTONENC",
+                  "screen_name" : "fc_hortonenc"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 576863023173935104,
+         "id_str" : "576863023173935104",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 1,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Sat Mar 14 21:50:21 +0000 2015",
+            "entities" : {
+               "hashtags" : [
+                  {
+                     "indices" : [ 0, 7 ],
+                     "text" : "4CAT10"
+                  },
+                  {
+                     "indices" : [ 50, 60 ],
+                     "text" : "futbolcat"
+                  }
+               ],
+               "symbols" : [],
+               "urls" : [
+                  {
+                     "display_url" : "ht.ly/KhELs",
+                     "expanded_url" : "http://ht.ly/KhELs",
+                     "indices" : [ 27, 49 ],
+                     "url" : "http://t.co/01A0Od4FaR"
+                  }
+               ],
+               "user_mentions" : [
+                  {
+                     "id" : 384419370,
+                     "id_str" : "384419370",
+                     "indices" : [ 69, 82 ],
+                     "name" : "F. C. HORTONENC",
+                     "screen_name" : "fc_hortonenc"
+                  }
+               ]
+            },
+            "favorite_count" : 0,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 576862957633712128,
+            "id_str" : "576862957633712128",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "lang" : "es",
+            "metadata" : {
+               "iso_language_code" : "es",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 1,
+            "retweeted" : false,
+            "source" : "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+            "text" : "#4CAT10 | Diumenge al matí http://t.co/01A0Od4FaR #futbolcat\n12:00 : @FC_Hortonenc - Sant Pau d'Ordal\n12:00 : Martinenca - Monjos",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Fri Mar 26 09:25:52 +0000 2010",
+               "default_profile" : true,
+               "default_profile_image" : false,
+               "description" : "Tota la informació esportiva del Penedès. Dirigit i gestionat per @ernestgica",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  },
+                  "url" : {
+                     "urls" : [
+                        {
+                           "display_url" : "esportspenedes.cat",
+                           "expanded_url" : "http://www.esportspenedes.cat",
+                           "indices" : [ 0, 22 ],
+                           "url" : "http://t.co/lkyA9qV6F5"
+                        }
+                     ]
+                  }
+               },
+               "favourites_count" : 39,
+               "follow_request_sent" : false,
+               "followers_count" : 3040,
+               "following" : false,
+               "friends_count" : 955,
+               "geo_enabled" : true,
+               "id" : 126578732,
+               "id_str" : "126578732",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "ca",
+               "listed_count" : 45,
+               "location" : "",
+               "name" : "esportspenedes",
+               "notifications" : false,
+               "profile_background_color" : "C0DEED",
+               "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+               "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+               "profile_background_tile" : false,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/126578732/1422355223",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/1200943783/eplogo_normal.jpg",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/1200943783/eplogo_normal.jpg",
+               "profile_link_color" : "0084B4",
+               "profile_location" : null,
+               "profile_sidebar_border_color" : "C0DEED",
+               "profile_sidebar_fill_color" : "DDEEF6",
+               "profile_text_color" : "333333",
+               "profile_use_background_image" : true,
+               "protected" : false,
+               "screen_name" : "esportspenedes",
+               "statuses_count" : 25952,
+               "time_zone" : "Athens",
+               "url" : "http://t.co/lkyA9qV6F5",
+               "utc_offset" : 7200,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+         "text" : "RT @esportspenedes: #4CAT10 | Diumenge al matí http://t.co/01A0Od4FaR #futbolcat\n12:00 : @FC_Hortonenc - Sant Pau d'Ordal\n12:00 : Martinenc…",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Wed Aug 13 19:56:30 +0000 2008",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "Estudio a @aula_radio\nLocutor a Ràdio Ona Bitlles on em podeu escoltar cada dissabte de 12 a 13h",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               },
+               "url" : {
+                  "urls" : [
+                     {
+                        "display_url" : "facebook.com/puntdetrobadar…",
+                        "expanded_url" : "https://www.facebook.com/puntdetrobadaradio",
+                        "indices" : [ 0, 23 ],
+                        "url" : "https://t.co/LbTisc8eZE"
+                     }
+                  ]
+               }
+            },
+            "favourites_count" : 17777,
+            "follow_request_sent" : false,
+            "followers_count" : 1190,
+            "following" : false,
+            "friends_count" : 1748,
+            "geo_enabled" : true,
+            "id" : 15841496,
+            "id_str" : "15841496",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 23,
+            "location" : "Sant Sadurní d'Anoia ",
+            "name" : "Sergi Huete Zambrano",
+            "notifications" : false,
+            "profile_background_color" : "0099B9",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/15841496/1425737976",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/570923642016382976/rdUiy51z_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/570923642016382976/rdUiy51z_normal.jpeg",
+            "profile_link_color" : "0099B9",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "5ED4DC",
+            "profile_sidebar_fill_color" : "95E8EC",
+            "profile_text_color" : "3C3940",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "sergihuete",
+            "statuses_count" : 147193,
+            "time_zone" : "Madrid",
+            "url" : "https://t.co/LbTisc8eZE",
+            "utc_offset" : 3600,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sat Mar 14 21:50:35 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "bit.ly/1Myau0T",
+                  "expanded_url" : "http://bit.ly/1Myau0T",
+                  "indices" : [ 139, 140 ],
+                  "url" : "http://t.co/mkjiudyULx"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 42715368,
+                  "id_str" : "42715368",
+                  "indices" : [ 3, 11 ],
+                  "name" : "Toni Piqué ‏ن",
+                  "screen_name" : "ampique"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 576863015972257792,
+         "id_str" : "576863015972257792",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 9,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Fri Mar 13 20:00:13 +0000 2015",
+            "entities" : {
+               "hashtags" : [],
+               "symbols" : [],
+               "urls" : [
+                  {
+                     "display_url" : "bit.ly/1Myau0T",
+                     "expanded_url" : "http://bit.ly/1Myau0T",
+                     "indices" : [ 117, 139 ],
+                     "url" : "http://t.co/mkjiudyULx"
+                  }
+               ],
+               "user_mentions" : []
+            },
+            "favorite_count" : 5,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 576472856231473153,
+            "id_str" : "576472856231473153",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "lang" : "es",
+            "metadata" : {
+               "iso_language_code" : "es",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 9,
+            "retweeted" : false,
+            "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "text" : "«és igual de vàlid un vot decidit 5 minuts abans d'anar al col·legi electoral que un de convençut des de fa 30 anys» http://t.co/mkjiudyULx",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Tue May 26 20:45:07 +0000 2009",
+               "default_profile" : false,
+               "default_profile_image" : false,
+               "description" : "Journalist. Consultant on content development & newsroom organisation.",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  },
+                  "url" : {
+                     "urls" : [
+                        {
+                           "display_url" : "paperpapers.net",
+                           "expanded_url" : "http://www.paperpapers.net",
+                           "indices" : [ 0, 22 ],
+                           "url" : "http://t.co/V3O3Waw6fc"
+                        }
+                     ]
+                  }
+               },
+               "favourites_count" : 1162,
+               "follow_request_sent" : false,
+               "followers_count" : 7484,
+               "following" : false,
+               "friends_count" : 157,
+               "geo_enabled" : false,
+               "id" : 42715368,
+               "id_str" : "42715368",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "ca",
+               "listed_count" : 577,
+               "location" : "Barcelona",
+               "name" : "Toni Piqué ‏ن",
+               "notifications" : false,
+               "profile_background_color" : "DB0F0F",
+               "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/87818450/extra__copia_tw.jpg",
+               "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/87818450/extra__copia_tw.jpg",
+               "profile_background_tile" : false,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/42715368/1425838605",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/2600674283/5x5nh27ro3hxk6w9ypg5_normal.jpeg",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/2600674283/5x5nh27ro3hxk6w9ypg5_normal.jpeg",
+               "profile_link_color" : "0095FF",
+               "profile_location" : null,
+               "profile_sidebar_border_color" : "FFFFFF",
+               "profile_sidebar_fill_color" : "DAF2FA",
+               "profile_text_color" : "0C3E53",
+               "profile_use_background_image" : true,
+               "protected" : false,
+               "screen_name" : "ampique",
+               "statuses_count" : 55012,
+               "time_zone" : "Paris",
+               "url" : "http://t.co/V3O3Waw6fc",
+               "utc_offset" : 3600,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "text" : "RT @ampique: «és igual de vàlid un vot decidit 5 minuts abans d'anar al col·legi electoral que un de convençut des de fa 30 anys» http://t.…",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Tue Nov 27 18:30:35 +0000 2012",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "Foto: Ànton Txèkhov va malparlar de la ciutat de Tomsk, que li dedicà aquesta estàtua satírica.",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 1329,
+            "follow_request_sent" : false,
+            "followers_count" : 387,
+            "following" : false,
+            "friends_count" : 200,
+            "geo_enabled" : false,
+            "id" : 974420990,
+            "id_str" : "974420990",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "es",
+            "listed_count" : 9,
+            "location" : "Tomsk",
+            "name" : "L'oncle Vània #27S",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/974420990/1354210278",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/541128877586657282/Lmjed0aF_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/541128877586657282/Lmjed0aF_normal.jpeg",
+            "profile_link_color" : "0084B4",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "ivanvoinitski",
+            "statuses_count" : 60589,
+            "time_zone" : null,
+            "url" : null,
+            "utc_offset" : null,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : {
+            "coordinates" : [ 0, 0 ],
+            "type" : "Point"
+         },
+         "created_at" : "Sat Mar 14 21:50:34 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "naciodigital.cat",
+                  "expanded_url" : "http://www.naciodigital.cat/",
+                  "indices" : [ 55, 77 ],
+                  "url" : "http://t.co/bWHPPYMw27"
+               }
+            ],
+            "user_mentions" : []
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : {
+            "coordinates" : [ 0, 0 ],
+            "type" : "Point"
+         },
+         "id" : 576863013409562624,
+         "id_str" : "576863013409562624",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : {
+            "attributes" : {},
+            "bounding_box" : {
+               "coordinates" : [
+                  [
+                     [ 2.0524766, 41.3199988 ],
+                     [ 2.2261223, 41.3199988 ],
+                     [ 2.2261223, 41.4682658 ],
+                     [ 2.0524766, 41.4682658 ]
+                  ]
+               ],
+               "type" : "Polygon"
+            },
+            "contained_within" : [],
+            "country" : "España",
+            "country_code" : "ES",
+            "full_name" : "Barcelona, Catalonia",
+            "id" : "1a27537478dd8e38",
+            "name" : "Barcelona",
+            "place_type" : "city",
+            "url" : "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json"
+         },
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+         "text" : "Llanos de Luna es vanta de tenir el nivell C de català http://t.co/bWHPPYMw27",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Sat Aug 20 23:13:06 +0000 2011",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "Només el poble allibera al poble. #SíSí\n# LA REVOLUCIÓ DELS SOMRIURES #",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 11887,
+            "follow_request_sent" : false,
+            "followers_count" : 2999,
+            "following" : false,
+            "friends_count" : 3218,
+            "geo_enabled" : true,
+            "id" : 359049768,
+            "id_str" : "359049768",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 39,
+            "location" : "",
+            "name" : "Vídac ||*|| #SíSí'",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/359049768/1426110030",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/456161512906694656/AS4ODPTM_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/456161512906694656/AS4ODPTM_normal.jpeg",
+            "profile_link_color" : "0084B4",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "DDomene",
+            "statuses_count" : 77914,
+            "time_zone" : "Madrid",
+            "url" : null,
+            "utc_offset" : 3600,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sat Mar 14 21:50:34 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "berga.cup.cat/noticia/la-cup…",
+                  "expanded_url" : "http://berga.cup.cat/noticia/la-cup-es-fixa-recuperar-el-control-de-la-gesti%C3%B3-de-l%E2%80%99aigua-com-un-dels-objectius-principals#.VQStDTPp5Ps.twitter",
+                  "indices" : [ 94, 116 ],
+                  "url" : "http://t.co/QBWWvZvzEZ"
+               }
+            ],
+            "user_mentions" : []
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 576863011278888961,
+         "id_str" : "576863011278888961",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "text" : "La CUP es fixa recuperar el control de la gestió de l’aigua com un dels objectius principals.\nhttp://t.co/QBWWvZvzEZ",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Tue Dec 21 00:17:58 +0000 2010",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "Cançons i esmenes",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 1104,
+            "follow_request_sent" : false,
+            "followers_count" : 17847,
+            "following" : false,
+            "friends_count" : 504,
+            "geo_enabled" : true,
+            "id" : 228898850,
+            "id_str" : "228898850",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 224,
+            "location" : "Berga ★ Països Catalans",
+            "name" : "Francesc Ribera",
+            "notifications" : false,
+            "profile_background_color" : "3CE68B",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme19/bg.gif",
+            "profile_background_tile" : false,
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/378800000279596826/62889ee49ea3d1fc3f0284f9266a61e6_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/378800000279596826/62889ee49ea3d1fc3f0284f9266a61e6_normal.jpeg",
+            "profile_link_color" : "2EB371",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "FFFFFF",
+            "profile_sidebar_fill_color" : "F6FFD1",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : false,
+            "protected" : false,
+            "screen_name" : "francescribera",
+            "statuses_count" : 11646,
+            "time_zone" : "London",
+            "url" : null,
+            "utc_offset" : 0,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sat Mar 14 21:50:26 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "directe.cat/noticia/392722…",
+                  "expanded_url" : "http://www.directe.cat/noticia/392722/cdc-erc-euia-mes-ami-anc-i-omnium-acord-sobre-el-full-de-ruta-independentista",
+                  "indices" : [ 119, 140 ],
+                  "url" : "http://t.co/upcxwX1Wgo"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 26479122,
+                  "id_str" : "26479122",
+                  "indices" : [ 3, 19 ],
+                  "name" : "Lluis #DUI 2015",
+                  "screen_name" : "Lluis_Casanovas"
+               },
+               {
+                  "id" : 13777542,
+                  "id_str" : "13777542",
+                  "indices" : [ 139, 140 ],
+                  "name" : "directe!cat",
+                  "screen_name" : "directe"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 576862977598574592,
+         "id_str" : "576862977598574592",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 9,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Sat Mar 14 12:18:29 +0000 2015",
+            "entities" : {
+               "hashtags" : [],
+               "symbols" : [],
+               "urls" : [
+                  {
+                     "display_url" : "directe.cat/noticia/392722…",
+                     "expanded_url" : "http://www.directe.cat/noticia/392722/cdc-erc-euia-mes-ami-anc-i-omnium-acord-sobre-el-full-de-ruta-independentista",
+                     "indices" : [ 98, 120 ],
+                     "url" : "http://t.co/upcxwX1Wgo"
+                  }
+               ],
+               "user_mentions" : [
+                  {
+                     "id" : 13777542,
+                     "id_str" : "13777542",
+                     "indices" : [ 125, 133 ],
+                     "name" : "directe!cat",
+                     "screen_name" : "directe"
+                  }
+               ]
+            },
+            "favorite_count" : 1,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 576719041232019457,
+            "id_str" : "576719041232019457",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "lang" : "es",
+            "metadata" : {
+               "iso_language_code" : "es",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 9,
+            "retweeted" : false,
+            "source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+            "text" : "CDC, ERC, EUiA, MES, AMI, ANC i Òmnium, acord sobre el full de ruta independentista ! directe!cat http://t.co/upcxwX1Wgo via @directe",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Wed Mar 25 11:51:45 +0000 2009",
+               "default_profile" : false,
+               "default_profile_image" : false,
+               "description" : "I am a http://t.co/68kpQ5hP8A a province of Spain. But what has been Catalonia?has been the greatest nation in the world. WILL BE BACK EARLY REUS CATALONIA",
+               "entities" : {
+                  "description" : {
+                     "urls" : [
+                        {
+                           "display_url" : "catalan.Today",
+                           "expanded_url" : "http://catalan.Today",
+                           "indices" : [ 7, 29 ],
+                           "url" : "http://t.co/68kpQ5hP8A"
+                        }
+                     ]
+                  },
+                  "url" : {
+                     "urls" : [
+                        {
+                           "display_url" : "freedomforcatalonia2015.wordpress.com",
+                           "expanded_url" : "http://freedomforcatalonia2015.wordpress.com",
+                           "indices" : [ 0, 22 ],
+                           "url" : "http://t.co/IXXYwCKOTe"
+                        }
+                     ]
+                  }
+               },
+               "favourites_count" : 1764,
+               "follow_request_sent" : false,
+               "followers_count" : 4430,
+               "following" : false,
+               "friends_count" : 4365,
+               "geo_enabled" : true,
+               "id" : 26479122,
+               "id_str" : "26479122",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "ca",
+               "listed_count" : 61,
+               "location" : "Reus,Països Catalans",
+               "name" : "Lluis #DUI 2015",
+               "notifications" : false,
+               "profile_background_color" : "0099B9",
+               "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/110404811/fons10.jpg",
+               "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/110404811/fons10.jpg",
+               "profile_background_tile" : true,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/26479122/1417018153",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/575306519434117120/3fagwSs8_normal.jpeg",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/575306519434117120/3fagwSs8_normal.jpeg",
+               "profile_link_color" : "0099B9",
+               "profile_location" : null,
+               "profile_sidebar_border_color" : "5ED4DC",
+               "profile_sidebar_fill_color" : "95E8EC",
+               "profile_text_color" : "3C3940",
+               "profile_use_background_image" : true,
+               "protected" : false,
+               "screen_name" : "Lluis_Casanovas",
+               "statuses_count" : 55208,
+               "time_zone" : "Madrid",
+               "url" : "http://t.co/IXXYwCKOTe",
+               "utc_offset" : 3600,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+         "text" : "RT @Lluis_Casanovas: CDC, ERC, EUiA, MES, AMI, ANC i Òmnium, acord sobre el full de ruta independentista ! directe!cat http://t.co/upcxwX1W…",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Tue Dec 13 11:53:35 +0000 2011",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "Català, Republicà i ecologista tot i agradant-me els esports de motor. Catalan, Republicano y ecologista aunque me gusten los deportes de motor.",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 1209,
+            "follow_request_sent" : false,
+            "followers_count" : 208,
+            "following" : false,
+            "friends_count" : 187,
+            "geo_enabled" : false,
+            "id" : 435744681,
+            "id_str" : "435744681",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 6,
+            "location" : "Catalunya",
+            "name" : "Ramon Paüls",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/435744681/1415299497",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/530429609863430144/qchv9w2C_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/530429609863430144/qchv9w2C_normal.jpeg",
+            "profile_link_color" : "0084B4",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "Ramonpauls",
+            "statuses_count" : 4206,
+            "time_zone" : "Amsterdam",
+            "url" : null,
+            "utc_offset" : 3600,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sat Mar 14 21:50:24 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "ara.cat/_4eb4bf27?s=t",
+                  "expanded_url" : "http://ara.cat/_4eb4bf27?s=t",
+                  "indices" : [ 108, 130 ],
+                  "url" : "http://t.co/ONeEA6mL2O"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 195770994,
+                  "id_str" : "195770994",
+                  "indices" : [ 3, 15 ],
+                  "name" : "ARA Política",
+                  "screen_name" : "ARApolitica"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 576862972624134145,
+         "id_str" : "576862972624134145",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 4,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Sat Mar 14 19:33:38 +0000 2015",
+            "entities" : {
+               "hashtags" : [],
+               "symbols" : [],
+               "urls" : [
+                  {
+                     "display_url" : "ara.cat/_4eb4bf27?s=t",
+                     "expanded_url" : "http://ara.cat/_4eb4bf27?s=t",
+                     "indices" : [ 91, 113 ],
+                     "url" : "http://t.co/ONeEA6mL2O"
+                  }
+               ],
+               "user_mentions" : []
+            },
+            "favorite_count" : 3,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 576828552592654336,
+            "id_str" : "576828552592654336",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "lang" : "es",
+            "metadata" : {
+               "iso_language_code" : "es",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 4,
+            "retweeted" : false,
+            "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text" : "Procés Constituent reclama una candidatura de \"confluència\" a les eleccions plebiscitàries http://t.co/ONeEA6mL2O",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Mon Sep 27 14:55:43 +0000 2010",
+               "default_profile" : false,
+               "default_profile_image" : false,
+               "description" : "Secció de Política del @diariARA",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  },
+                  "url" : {
+                     "urls" : [
+                        {
+                           "display_url" : "ara.cat/politica/",
+                           "expanded_url" : "http://www.ara.cat/politica/",
+                           "indices" : [ 0, 22 ],
+                           "url" : "http://t.co/vycBEZjtsw"
+                        }
+                     ]
+                  }
+               },
+               "favourites_count" : 4,
+               "follow_request_sent" : false,
+               "followers_count" : 37861,
+               "following" : false,
+               "friends_count" : 1487,
+               "geo_enabled" : true,
+               "id" : 195770994,
+               "id_str" : "195770994",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "ca",
+               "listed_count" : 838,
+               "location" : "Catalunya",
+               "name" : "ARA Política",
+               "notifications" : false,
+               "profile_background_color" : "00667F",
+               "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/172238039/fons_politica.jpg",
+               "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/172238039/fons_politica.jpg",
+               "profile_background_tile" : false,
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/1741290729/arapolitica_normal.png",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/1741290729/arapolitica_normal.png",
+               "profile_link_color" : "00667F",
+               "profile_location" : null,
+               "profile_sidebar_border_color" : "CCCCCC",
+               "profile_sidebar_fill_color" : "E9E9E9",
+               "profile_text_color" : "333333",
+               "profile_use_background_image" : true,
+               "protected" : false,
+               "screen_name" : "ARApolitica",
+               "statuses_count" : 42566,
+               "time_zone" : "Madrid",
+               "url" : "http://t.co/vycBEZjtsw",
+               "utc_offset" : 3600,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "text" : "RT @ARApolitica: Procés Constituent reclama una candidatura de \"confluència\" a les eleccions plebiscitàries http://t.co/ONeEA6mL2O",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Sun Sep 21 15:06:21 +0000 2014",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 14,
+            "follow_request_sent" : false,
+            "followers_count" : 14,
+            "following" : false,
+            "friends_count" : 34,
+            "geo_enabled" : false,
+            "id" : 2779040013,
+            "id_str" : "2779040013",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 1,
+            "location" : "",
+            "name" : "Jaume Ferrer Tarrats",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/2779040013/1411314617",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/513716721501630464/WFxEWrVI_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/513716721501630464/WFxEWrVI_normal.jpeg",
+            "profile_link_color" : "0084B4",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "JaumeTarrats",
+            "statuses_count" : 415,
+            "time_zone" : null,
+            "url" : null,
+            "utc_offset" : null,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sat Mar 14 21:50:24 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "arabalears.cat/_4eb4bee3?s=t",
+                  "expanded_url" : "http://arabalears.cat/_4eb4bee3?s=t",
+                  "indices" : [ 62, 84 ],
+                  "url" : "http://t.co/F5pKF5qKjB"
+               }
+            ],
+            "user_mentions" : []
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 576862969180598272,
+         "id_str" : "576862969180598272",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+         "text" : "VIST AL TWITTER La derrota del Mallorca 'anima' els tuitaires http://t.co/F5pKF5qKjB",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Thu Sep 23 16:30:39 +0000 2010",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               },
+               "url" : {
+                  "urls" : [
+                     {
+                        "display_url" : "arabalears.cat",
+                        "expanded_url" : "http://www.arabalears.cat",
+                        "indices" : [ 0, 22 ],
+                        "url" : "http://t.co/zb5BT7LvQQ"
+                     }
+                  ]
+               }
+            },
+            "favourites_count" : 421,
+            "follow_request_sent" : false,
+            "followers_count" : 10071,
+            "following" : false,
+            "friends_count" : 634,
+            "geo_enabled" : false,
+            "id" : 194178895,
+            "id_str" : "194178895",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 178,
+            "location" : "Illes Balears",
+            "name" : "ARA Balears",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/152728373/fons_twitter.gif",
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/152728373/fons_twitter.gif",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/194178895/1425975037",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/3559300080/46c35bb65fc62f822d4666e6065756c6_normal.png",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/3559300080/46c35bb65fc62f822d4666e6065756c6_normal.png",
+            "profile_link_color" : "0084B4",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "FFFFFF",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : false,
+            "protected" : false,
+            "screen_name" : "ARAbalears",
+            "statuses_count" : 38228,
+            "time_zone" : "Madrid",
+            "url" : "http://t.co/zb5BT7LvQQ",
+            "utc_offset" : 3600,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sat Mar 14 21:50:21 +0000 2015",
+         "entities" : {
+            "hashtags" : [
+               {
+                  "indices" : [ 0, 7 ],
+                  "text" : "4CAT10"
+               },
+               {
+                  "indices" : [ 50, 60 ],
+                  "text" : "futbolcat"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "ht.ly/KhELs",
+                  "expanded_url" : "http://ht.ly/KhELs",
+                  "indices" : [ 27, 49 ],
+                  "url" : "http://t.co/01A0Od4FaR"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 384419370,
+                  "id_str" : "384419370",
+                  "indices" : [ 69, 82 ],
+                  "name" : "F. C. HORTONENC",
+                  "screen_name" : "fc_hortonenc"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 576862957633712128,
+         "id_str" : "576862957633712128",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 1,
+         "retweeted" : false,
+         "source" : "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+         "text" : "#4CAT10 | Diumenge al matí http://t.co/01A0Od4FaR #futbolcat\n12:00 : @FC_Hortonenc - Sant Pau d'Ordal\n12:00 : Martinenca - Monjos",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Fri Mar 26 09:25:52 +0000 2010",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "Tota la informació esportiva del Penedès. Dirigit i gestionat per @ernestgica",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               },
+               "url" : {
+                  "urls" : [
+                     {
+                        "display_url" : "esportspenedes.cat",
+                        "expanded_url" : "http://www.esportspenedes.cat",
+                        "indices" : [ 0, 22 ],
+                        "url" : "http://t.co/lkyA9qV6F5"
+                     }
+                  ]
+               }
+            },
+            "favourites_count" : 39,
+            "follow_request_sent" : false,
+            "followers_count" : 3040,
+            "following" : false,
+            "friends_count" : 955,
+            "geo_enabled" : true,
+            "id" : 126578732,
+            "id_str" : "126578732",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 45,
+            "location" : "",
+            "name" : "esportspenedes",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/126578732/1422355223",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/1200943783/eplogo_normal.jpg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/1200943783/eplogo_normal.jpg",
+            "profile_link_color" : "0084B4",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "esportspenedes",
+            "statuses_count" : 25952,
+            "time_zone" : "Athens",
+            "url" : "http://t.co/lkyA9qV6F5",
+            "utc_offset" : 7200,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : {
+            "coordinates" : [ 0, 0 ],
+            "type" : "Point"
+         },
+         "created_at" : "Sat Mar 14 21:50:19 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "naciodigital.cat",
+                  "expanded_url" : "http://www.naciodigital.cat/",
+                  "indices" : [ 106, 128 ],
+                  "url" : "http://t.co/bWHPPYMw27"
+               }
+            ],
+            "user_mentions" : []
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : {
+            "coordinates" : [ 0, 0 ],
+            "type" : "Point"
+         },
+         "id" : 576862949014421505,
+         "id_str" : "576862949014421505",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : {
+            "attributes" : {},
+            "bounding_box" : {
+               "coordinates" : [
+                  [
+                     [ 2.0524766, 41.3199988 ],
+                     [ 2.2261223, 41.3199988 ],
+                     [ 2.2261223, 41.4682658 ],
+                     [ 2.0524766, 41.4682658 ]
+                  ]
+               ],
+               "type" : "Polygon"
+            },
+            "contained_within" : [],
+            "country" : "España",
+            "country_code" : "ES",
+            "full_name" : "Barcelona, Catalonia",
+            "id" : "1a27537478dd8e38",
+            "name" : "Barcelona",
+            "place_type" : "city",
+            "url" : "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json"
+         },
+         "possibly_sensitive" : false,
+         "retweet_count" : 1,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+         "text" : "«Mentre Podemos s’anirà desgastant l’atenció es decantarà cap a el noi acabat de sortir de la tintoreria» http://t.co/bWHPPYMw27",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Sat Aug 20 23:13:06 +0000 2011",
+            "default_profile" : true,
+            "default_profile_image" : false,
+            "description" : "Només el poble allibera al poble. #SíSí\n# LA REVOLUCIÓ DELS SOMRIURES #",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 11887,
+            "follow_request_sent" : false,
+            "followers_count" : 2999,
+            "following" : false,
+            "friends_count" : 3218,
+            "geo_enabled" : true,
+            "id" : 359049768,
+            "id_str" : "359049768",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 39,
+            "location" : "",
+            "name" : "Vídac ||*|| #SíSí'",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/359049768/1426110030",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/456161512906694656/AS4ODPTM_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/456161512906694656/AS4ODPTM_normal.jpeg",
+            "profile_link_color" : "0084B4",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "C0DEED",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "DDomene",
+            "statuses_count" : 77914,
+            "time_zone" : "Madrid",
+            "url" : null,
+            "utc_offset" : 3600,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sat Mar 14 21:50:17 +0000 2015",
+         "entities" : {
+            "hashtags" : [
+               {
+                  "indices" : [ 20, 24 ],
+                  "text" : "Pam"
+               },
+               {
+                  "indices" : [ 66, 74 ],
+                  "text" : "Vanuatu"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "goo.gl/9Tt65n",
+                  "expanded_url" : "http://goo.gl/9Tt65n",
+                  "indices" : [ 95, 117 ],
+                  "url" : "http://t.co/1BNAcDRZEV"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 11695472,
+                  "id_str" : "11695472",
+                  "indices" : [ 75, 81 ],
+                  "name" : "Oxfam International",
+                  "screen_name" : "Oxfam"
+               },
+               {
+                  "id" : 138418895,
+                  "id_str" : "138418895",
+                  "indices" : [ 82, 93 ],
+                  "name" : "Australian Red Cross",
+                  "screen_name" : "RedCrossAU"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 576862941372383232,
+         "id_str" : "576862941372383232",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+         "text" : "El paso del ciclón '#Pam' deja al menos ocho muertos en las islas #Vanuatu @Oxfam @RedCrossAU  http://t.co/1BNAcDRZEV",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Mon Jul 12 08:16:39 +0000 2010",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "Infórmate y participa",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               },
+               "url" : {
+                  "urls" : [
+                     {
+                        "display_url" : "catalunyapress.cat",
+                        "expanded_url" : "http://www.catalunyapress.cat",
+                        "indices" : [ 0, 22 ],
+                        "url" : "http://t.co/DRNCgM3HHn"
+                     }
+                  ]
+               }
+            },
+            "favourites_count" : 7,
+            "follow_request_sent" : false,
+            "followers_count" : 7518,
+            "following" : false,
+            "friends_count" : 2763,
+            "geo_enabled" : true,
+            "id" : 165691080,
+            "id_str" : "165691080",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "es",
+            "listed_count" : 405,
+            "location" : "Barcelona",
+            "name" : "CatalunyaPress",
+            "notifications" : false,
+            "profile_background_color" : "C0DEED",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/165691080/1403168199",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/474510391574138881/ZrbLpuBj_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/474510391574138881/ZrbLpuBj_normal.jpeg",
+            "profile_link_color" : "994845",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "FFFFFF",
+            "profile_sidebar_fill_color" : "DDEEF6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "Catalunya_Press",
+            "statuses_count" : 72340,
+            "time_zone" : null,
+            "url" : "http://t.co/DRNCgM3HHn",
+            "utc_offset" : null,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sat Mar 14 21:50:17 +0000 2015",
+         "entities" : {
+            "hashtags" : [
+               {
+                  "indices" : [ 28, 36 ],
+                  "text" : "PAC1420"
+               },
+               {
+                  "indices" : [ 97, 105 ],
+                  "text" : "DUN2015"
+               }
+            ],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "bit.ly/1CckpI7",
+                  "expanded_url" : "http://bit.ly/1CckpI7",
+                  "indices" : [ 74, 96 ],
+                  "url" : "http://t.co/ovB3hY3VgZ"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 110416536,
+                  "id_str" : "110416536",
+                  "indices" : [ 3, 18 ],
+                  "name" : "Agricultura. gencat",
+                  "screen_name" : "agriculturacat"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 576862940072173568,
+         "id_str" : "576862940072173568",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 6,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Fri Mar 13 12:06:42 +0000 2015",
+            "entities" : {
+               "hashtags" : [
+                  {
+                     "indices" : [ 8, 16 ],
+                     "text" : "PAC1420"
+                  },
+                  {
+                     "indices" : [ 77, 85 ],
+                     "text" : "DUN2015"
+                  }
+               ],
+               "symbols" : [],
+               "urls" : [
+                  {
+                     "display_url" : "bit.ly/1CckpI7",
+                     "expanded_url" : "http://bit.ly/1CckpI7",
+                     "indices" : [ 54, 76 ],
+                     "url" : "http://t.co/ovB3hY3VgZ"
+                  }
+               ],
+               "user_mentions" : []
+            },
+            "favorite_count" : 0,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 576353690203897856,
+            "id_str" : "576353690203897856",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "lang" : "es",
+            "metadata" : {
+               "iso_language_code" : "es",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 6,
+            "retweeted" : false,
+            "source" : "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "text" : "Full 01 #PAC1420 - Declaració única agrària. DUN 2015\nhttp://t.co/ovB3hY3VgZ #DUN2015",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Mon Feb 01 13:29:26 +0000 2010",
+               "default_profile" : false,
+               "default_profile_image" : false,
+               "description" : "Departament d'Agricultura, Ramaderia, Pesca, Alimentació i Medi Natural. Generalitat / Ministry of Agriculture, Livestock, Fisheries, Food, and the Environment.",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  },
+                  "url" : {
+                     "urls" : [
+                        {
+                           "display_url" : "gencat.cat/agricultura",
+                           "expanded_url" : "http://www.gencat.cat/agricultura",
+                           "indices" : [ 0, 22 ],
+                           "url" : "http://t.co/gRpKdEvr42"
+                        }
+                     ]
+                  }
+               },
+               "favourites_count" : 2,
+               "follow_request_sent" : false,
+               "followers_count" : 6243,
+               "following" : false,
+               "friends_count" : 253,
+               "geo_enabled" : false,
+               "id" : 110416536,
+               "id_str" : "110416536",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "ca",
+               "listed_count" : 205,
+               "location" : "Catalunya",
+               "name" : "Agricultura. gencat",
+               "notifications" : false,
+               "profile_background_color" : "FFFFFF",
+               "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/378800000007502822/5b30d6fdc956c71236fbc25751c1e29b.png",
+               "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/378800000007502822/5b30d6fdc956c71236fbc25751c1e29b.png",
+               "profile_background_tile" : false,
+               "profile_banner_url" : "https://pbs.twimg.com/profile_banners/110416536/1423215305",
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/1407878486/avatar_normal.png",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/1407878486/avatar_normal.png",
+               "profile_link_color" : "AC2215",
+               "profile_location" : null,
+               "profile_sidebar_border_color" : "FFFFFF",
+               "profile_sidebar_fill_color" : "FFFFFF",
+               "profile_text_color" : "333333",
+               "profile_use_background_image" : true,
+               "protected" : false,
+               "screen_name" : "agriculturacat",
+               "statuses_count" : 4389,
+               "time_zone" : "Madrid",
+               "url" : "http://t.co/gRpKdEvr42",
+               "utc_offset" : 3600,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+         "text" : "RT @agriculturacat: Full 01 #PAC1420 - Declaració única agrària. DUN 2015\nhttp://t.co/ovB3hY3VgZ #DUN2015",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Fri Sep 18 23:25:31 +0000 2009",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "Enginyer Tècnic Agrícola / Màster en Enginyeria Ambiental / Altempordanès i pare de l'Abril i l'Uma",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 142,
+            "follow_request_sent" : false,
+            "followers_count" : 196,
+            "following" : false,
+            "friends_count" : 352,
+            "geo_enabled" : false,
+            "id" : 75415659,
+            "id_str" : "75415659",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 9,
+            "location" : "Figueres",
+            "name" : "Ivan Terreu",
+            "notifications" : false,
+            "profile_background_color" : "AFB8B8",
+            "profile_background_image_url" : "http://pbs.twimg.com/profile_background_images/378800000000335794/c1993d12717e00e6a971b5d83142ab54.jpeg",
+            "profile_background_image_url_https" : "https://pbs.twimg.com/profile_background_images/378800000000335794/c1993d12717e00e6a971b5d83142ab54.jpeg",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/75415659/1425850102",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/467041631892291585/1Oj63l9X_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/467041631892291585/1Oj63l9X_normal.jpeg",
+            "profile_link_color" : "81EBB6",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "FFFFFF",
+            "profile_sidebar_fill_color" : "F6F6F6",
+            "profile_text_color" : "333333",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "iterreu",
+            "statuses_count" : 557,
+            "time_zone" : "Buenos Aires",
+            "url" : null,
+            "utc_offset" : -10800,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sat Mar 14 21:50:17 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "bernatdedeu.cat/2015/03/desinf…",
+                  "expanded_url" : "http://www.bernatdedeu.cat/2015/03/desinflats-i-pessimistes/",
+                  "indices" : [ 66, 88 ],
+                  "url" : "http://t.co/GZcTX4QAyU"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 2523994546,
+                  "id_str" : "2523994546",
+                  "indices" : [ 89, 102 ],
+                  "name" : "montserrat puigvert",
+                  "screen_name" : "M0ntserratpc"
+               },
+               {
+                  "id" : 498832871,
+                  "id_str" : "498832871",
+                  "indices" : [ 103, 112 ],
+                  "name" : "Krmeta",
+                  "screen_name" : "krmeta12"
+               },
+               {
+                  "id" : 2795901305,
+                  "id_str" : "2795901305",
+                  "indices" : [ 113, 124 ],
+                  "name" : "Albert Valls #27S",
+                  "screen_name" : "Albert_V_J"
+               },
+               {
+                  "id" : 184091757,
+                  "id_str" : "184091757",
+                  "indices" : [ 125, 132 ],
+                  "name" : "Eclipsi",
+                  "screen_name" : "iEclip"
+               },
+               {
+                  "id" : 2182942872,
+                  "id_str" : "2182942872",
+                  "indices" : [ 133, 140 ],
+                  "name" : "bita ",
+                  "screen_name" : "bitajr"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 576862939518529536,
+         "id_str" : "576862939518529536",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 0,
+         "retweeted" : false,
+         "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+         "text" : "Paciència, molta paciència: Desinflats i pesimistes-Bernard Dedéu http://t.co/GZcTX4QAyU @M0ntserratpc @krmeta12 @Albert_V_J @iEclip @bitajr",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Sat Sep 13 19:44:32 +0000 2014",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "Català,  que ja és molt...                               (Il·lustració d'en Vicenç Viaplana)",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               }
+            },
+            "favourites_count" : 4680,
+            "follow_request_sent" : false,
+            "followers_count" : 345,
+            "following" : false,
+            "friends_count" : 227,
+            "geo_enabled" : false,
+            "id" : 2769219225,
+            "id_str" : "2769219225",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 8,
+            "location" : "Importa amb quí, no on.",
+            "name" : "Armand #27Soler",
+            "notifications" : false,
+            "profile_background_color" : "000000",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/2769219225/1412764903",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/524560340760023040/d5L1CNYb_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/524560340760023040/d5L1CNYb_normal.jpeg",
+            "profile_link_color" : "4A913C",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "000000",
+            "profile_sidebar_fill_color" : "000000",
+            "profile_text_color" : "000000",
+            "profile_use_background_image" : false,
+            "protected" : false,
+            "screen_name" : "sagal62",
+            "statuses_count" : 22715,
+            "time_zone" : "Ljubljana",
+            "url" : null,
+            "utc_offset" : 3600,
+            "verified" : false
+         }
+      },
+      {
+         "contributors" : null,
+         "coordinates" : null,
+         "created_at" : "Sat Mar 14 21:50:16 +0000 2015",
+         "entities" : {
+            "hashtags" : [],
+            "symbols" : [],
+            "urls" : [
+               {
+                  "display_url" : "ccma.cat/tv3/alacarta/t…",
+                  "expanded_url" : "http://www.ccma.cat/tv3/alacarta/telenoticies/debat-sobre-el-futur-del-sector-de-les-tres-xemeneies-de-sant-adria-de-besos/video/5483860/",
+                  "indices" : [ 139, 140 ],
+                  "url" : "http://t.co/uiE683x3fN"
+               }
+            ],
+            "user_mentions" : [
+               {
+                  "id" : 706908092,
+                  "id_str" : "706908092",
+                  "indices" : [ 3, 14 ],
+                  "name" : "3Xemeneies",
+                  "screen_name" : "3Xemeneies"
+               },
+               {
+                  "id" : 706908092,
+                  "id_str" : "706908092",
+                  "indices" : [ 119, 130 ],
+                  "name" : "3Xemeneies",
+                  "screen_name" : "3Xemeneies"
+               }
+            ]
+         },
+         "favorite_count" : 0,
+         "favorited" : false,
+         "geo" : null,
+         "id" : 576862938428006400,
+         "id_str" : "576862938428006400",
+         "in_reply_to_screen_name" : null,
+         "in_reply_to_status_id" : null,
+         "in_reply_to_status_id_str" : null,
+         "in_reply_to_user_id" : null,
+         "in_reply_to_user_id_str" : null,
+         "lang" : "es",
+         "metadata" : {
+            "iso_language_code" : "es",
+            "result_type" : "recent"
+         },
+         "place" : null,
+         "possibly_sensitive" : false,
+         "retweet_count" : 3,
+         "retweeted" : false,
+         "retweeted_status" : {
+            "contributors" : null,
+            "coordinates" : null,
+            "created_at" : "Sat Mar 14 21:27:50 +0000 2015",
+            "entities" : {
+               "hashtags" : [],
+               "symbols" : [],
+               "urls" : [
+                  {
+                     "display_url" : "ccma.cat/tv3/alacarta/t…",
+                     "expanded_url" : "http://www.ccma.cat/tv3/alacarta/telenoticies/debat-sobre-el-futur-del-sector-de-les-tres-xemeneies-de-sant-adria-de-besos/video/5483860/",
+                     "indices" : [ 116, 138 ],
+                     "url" : "http://t.co/uiE683x3fN"
+                  }
+               ],
+               "user_mentions" : [
+                  {
+                     "id" : 706908092,
+                     "id_str" : "706908092",
+                     "indices" : [ 103, 114 ],
+                     "name" : "3Xemeneies",
+                     "screen_name" : "3Xemeneies"
+                  }
+               ]
+            },
+            "favorite_count" : 3,
+            "favorited" : false,
+            "geo" : null,
+            "id" : 576857293150674944,
+            "id_str" : "576857293150674944",
+            "in_reply_to_screen_name" : null,
+            "in_reply_to_status_id" : null,
+            "in_reply_to_status_id_str" : null,
+            "in_reply_to_user_id" : null,
+            "in_reply_to_user_id_str" : null,
+            "lang" : "es",
+            "metadata" : {
+               "iso_language_code" : "es",
+               "result_type" : "recent"
+            },
+            "place" : null,
+            "possibly_sensitive" : false,
+            "retweet_count" : 3,
+            "retweeted" : false,
+            "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text" : "Si us ho heu perdut o no heu vist el TN Vespre d'avui podeu veure la crònica sobre la Jornada de Debat @3Xemeneies:\nhttp://t.co/uiE683x3fN",
+            "truncated" : false,
+            "user" : {
+               "contributors_enabled" : false,
+               "created_at" : "Fri Jul 20 10:35:36 +0000 2012",
+               "default_profile" : true,
+               "default_profile_image" : false,
+               "description" : "Plataforma per la conservació de les tres xemeneies Sant Adrià. La tèrmica és signe d'identitat adrianenca i patrimoni industrial de Catalunya.",
+               "entities" : {
+                  "description" : {
+                     "urls" : []
+                  },
+                  "url" : {
+                     "urls" : [
+                        {
+                           "display_url" : "sites.google.com/site/3xemeneie…",
+                           "expanded_url" : "https://sites.google.com/site/3xemeneies/",
+                           "indices" : [ 0, 23 ],
+                           "url" : "https://t.co/vj8azeHy2f"
+                        }
+                     ]
+                  }
+               },
+               "favourites_count" : 5,
+               "follow_request_sent" : false,
+               "followers_count" : 315,
+               "following" : false,
+               "friends_count" : 206,
+               "geo_enabled" : false,
+               "id" : 706908092,
+               "id_str" : "706908092",
+               "is_translation_enabled" : false,
+               "is_translator" : false,
+               "lang" : "ca",
+               "listed_count" : 9,
+               "location" : "Sant Adrià de Besòs",
+               "name" : "3Xemeneies",
+               "notifications" : false,
+               "profile_background_color" : "C0DEED",
+               "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme1/bg.png",
+               "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme1/bg.png",
+               "profile_background_tile" : false,
+               "profile_image_url" : "http://pbs.twimg.com/profile_images/2415072228/LOGO_PLATAFORMA__petit__normal.jpg",
+               "profile_image_url_https" : "https://pbs.twimg.com/profile_images/2415072228/LOGO_PLATAFORMA__petit__normal.jpg",
+               "profile_link_color" : "0084B4",
+               "profile_location" : null,
+               "profile_sidebar_border_color" : "C0DEED",
+               "profile_sidebar_fill_color" : "DDEEF6",
+               "profile_text_color" : "333333",
+               "profile_use_background_image" : true,
+               "protected" : false,
+               "screen_name" : "3Xemeneies",
+               "statuses_count" : 334,
+               "time_zone" : "Madrid",
+               "url" : "https://t.co/vj8azeHy2f",
+               "utc_offset" : 3600,
+               "verified" : false
+            }
+         },
+         "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "text" : "RT @3Xemeneies: Si us ho heu perdut o no heu vist el TN Vespre d'avui podeu veure la crònica sobre la Jornada de Debat @3Xemeneies:\nhttp://…",
+         "truncated" : false,
+         "user" : {
+            "contributors_enabled" : false,
+            "created_at" : "Mon Jan 02 12:47:53 +0000 2012",
+            "default_profile" : false,
+            "default_profile_image" : false,
+            "description" : "Exerceixo orgullós d'Adrianenc. Sóc Historiador. Treballo en el meu projecte a la difusió cultural. Sóc d'Iniciativa i hores d'ara Coordinador ICV Sant Adrià",
+            "entities" : {
+               "description" : {
+                  "urls" : []
+               },
+               "url" : {
+                  "urls" : [
+                     {
+                        "display_url" : "desdesantadriadebesos.blogspot.com",
+                        "expanded_url" : "http://desdesantadriadebesos.blogspot.com/",
+                        "indices" : [ 0, 22 ],
+                        "url" : "http://t.co/s5cUKycbjA"
+                     }
+                  ]
+               }
+            },
+            "favourites_count" : 219,
+            "follow_request_sent" : false,
+            "followers_count" : 448,
+            "following" : false,
+            "friends_count" : 665,
+            "geo_enabled" : true,
+            "id" : 452969114,
+            "id_str" : "452969114",
+            "is_translation_enabled" : false,
+            "is_translator" : false,
+            "lang" : "ca",
+            "listed_count" : 16,
+            "location" : "Sant Adrià de Besòs",
+            "name" : "Jose Luis #SomLluita",
+            "notifications" : false,
+            "profile_background_color" : "1A1B1F",
+            "profile_background_image_url" : "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https" : "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile" : false,
+            "profile_banner_url" : "https://pbs.twimg.com/profile_banners/452969114/1356789342",
+            "profile_image_url" : "http://pbs.twimg.com/profile_images/557262114759671808/tNtrCRpu_normal.jpeg",
+            "profile_image_url_https" : "https://pbs.twimg.com/profile_images/557262114759671808/tNtrCRpu_normal.jpeg",
+            "profile_link_color" : "2FC2EF",
+            "profile_location" : null,
+            "profile_sidebar_border_color" : "181A1E",
+            "profile_sidebar_fill_color" : "252429",
+            "profile_text_color" : "666666",
+            "profile_use_background_image" : true,
+            "protected" : false,
+            "screen_name" : "JoseLuisSAB",
+            "statuses_count" : 4445,
+            "time_zone" : "Berlin",
+            "url" : "http://t.co/s5cUKycbjA",
+            "utc_offset" : 3600,
+            "verified" : false
+         }
+      }
+   ]
+}
+
