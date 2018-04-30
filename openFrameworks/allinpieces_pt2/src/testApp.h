@@ -6,9 +6,7 @@
 #include "ofxOsc.h"
 
 //The host should be changed in different internet environment
-//#define HOST "149.31.121.51"//"149.31.121.129"
-#define HOST "192.168.1.140"//"149.31.121.246"//
-//"149.31.121.100"//"149.31.121.44"//"192.168.1.136"//"149.31.121.102"
+#define HOST "192.168.x.xxx"
 
 #define PORT 8000
 
@@ -49,10 +47,5 @@ private:
         int searchInterval; // 2 seconds
         bool first;
         int lastRun;
-//    ofSoundPlayer sound, sound2, sound3, sound4, sound5, sound6, sound7, sound8;
-//    vector <ofSoundPlayer> soundCollection;
-    
-//        ofImage userImage;
-    
     
 };
