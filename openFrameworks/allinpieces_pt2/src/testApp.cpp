@@ -80,27 +80,6 @@ void testApp::draw(){
             }
         }
 }
-    
-//    for(std::set<string>::iterator it=knownResults.begin(); it!=knownResults.end(); ++it){
-//    for(int j=0; j< text.length(); j++){
-//        ofSetColor(0);
-//        tr.setTimeToRender(5);
-//        tr.setTextToRender(text);
-//        
-//        ofDrawBitmapString(tr.whatToRender(), 10, 10);
-//        
-//        ofxOscMessage m;
-//        
-//        m.addStringArg(text.substr(j,1));
-//        cout<<text.substr(j,1)<<endl;
-//        sender.sendMessage(m);
-//
-//    }
-//}
-    
-
-
-
 
 void testApp::printTweetResults(string query) {
     // Initialize search parameters
@@ -113,52 +92,11 @@ void testApp::printTweetResults(string query) {
   
 }
 
-
 void testApp:: exit() {
 	printf("exit()\n");
 }
 
 //--------------------------------------------------------------
-void testApp::keyPressed(int key){
-
-}
-
-//--------------------------------------------------------------
-void testApp::keyReleased(int key){
-    
-}
-
-//--------------------------------------------------------------
-void testApp::mouseMoved(int x, int y ){
-
-}
-
-//--------------------------------------------------------------
-void testApp::mouseDragged(int x, int y, int button){
-
-}
-
-//--------------------------------------------------------------
-void testApp::mousePressed(int x, int y, int button){
-
-}
-
-//--------------------------------------------------------------
-void testApp::mouseReleased(int x, int y, int button){
-
-}
-
-//--------------------------------------------------------------
-void testApp::windowResized(int w, int h){
-
-}
-
-//--------------------------------------------------------------
 void testApp::gotMessage(ofMessage msg){
-
-}
-
-//--------------------------------------------------------------
-void testApp::dragEvent(ofDragInfo dragInfo){ 
 
 }
